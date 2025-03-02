@@ -1,0 +1,2384 @@
+[
+    {
+        "termino_es": "1v1",
+        "definicion_es": "Una partida personalizada entre 2 jugadores. Usualmente se arma enAbismo de los Lamentospero ocasionalmente ocurre enLa Grieta del Invocadoren el carril medio. Por lo general, el vencedor de esa partida es quien logra la primera sangre (eliminando a su enemigo), farmea 100súbditoso destruye la torre del carril en el que lucha.",
+        "termino_en": "1v1",
+        "definicion_en": "A challenge to a duel."
+    },
+    {
+        "termino_es": "3's",
+        "definicion_es": "El Bosque Retorcido. Hace referencia al mapa donde por defecto se enfrentan dos equipos de 3 integrantes cada uno.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "5's",
+        "definicion_es": "La Grieta del Invocador. Hace referencia al mapa donde por defecto se enfrentan dos equipos de 5 integrantes cada uno.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "AA",
+        "definicion_es": "Autoataque: El ataque básico ejecutado por un campeón al pulsar clic derecho sobre un enemigo.",
+        "termino_en": "AA",
+        "definicion_en": "Basic attack, which is nicknamedAuto attacksince the champion can repeat without new orders."
+    },
+    {
+        "termino_es": "Auto Atack",
+        "definicion_es": "Autoataque: El ataque básico ejecutado por un campeón al pulsar clic derecho sobre un enemigo.",
+        "termino_en": "Auto attack",
+        "definicion_en": "Basic attack, which is nicknamedAuto attacksince the champion can repeat without new orders."
+    },
+    {
+        "termino_es": "ABAM",
+        "definicion_es": "Una partida personalizada donde los jugadores eligen campeones en modoBlind Pickpara luchar sólo en el carril medio.",
+        "termino_en": "ABAM",
+        "definicion_en": "All Blind All Mid: a custom game type where players pick champions in Blind Pick to fight only in the middle lane."
+    },
+    {
+        "termino_es": "All Blind All Mid",
+        "definicion_es": "Una partida personalizada donde los jugadores eligen campeones en modoBlind Pickpara luchar sólo en el carril medio.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Ace",
+        "definicion_es": "Cuando todos los miembros de un equipo son eliminados.",
+        "termino_en": "Ace",
+        "definicion_en": "When all champions on a team are defeated at the same time."
+    },
+    {
+        "termino_es": "Activa",
+        "definicion_es": "Habilidades que poseen campeones y algunos items, que requieren ser activadas (haciendo clic o pulsando una tecla) para funcionar, contrario a las habilidades con \"Pasiva\".",
+        "termino_en": "Active",
+        "definicion_en": "Abilities possessed by champions and certain items that require activating (via clicking and/or hitting a key) to function, as opposed to \"passive\"."
+    },
+    {
+        "termino_es": "AD",
+        "definicion_es": "Daño de Ataque: Hace referencia al ataque físico.",
+        "termino_en": "AD",
+        "definicion_en": "Attack damage."
+    },
+    {
+        "termino_es": "Attack Damage",
+        "definicion_es": "Daño de Ataque: Hace referencia al ataque físico.",
+        "termino_en": "Sustained damage",
+        "definicion_en": "A large amount of damage that is done over a long period of time. Essentially the opposite of burst. Despite the name, sustained damage does not always come with actual sustain (but most of time, will do). Sustained damage is considered to be better to deal with tanky targets, while burst is more effective against squishy targets."
+    },
+    {
+        "termino_es": "ADAM",
+        "definicion_es": "Una partida personalizada donde los jugadores eligen campeones en modoDraft Pickpara luchar sólo en el carril medio.",
+        "termino_en": "ADAM",
+        "definicion_en": "All Draft All Mid: a custom game type where players pick a champion to only fight in the middle lane."
+    },
+    {
+        "termino_es": "All Draft All Mid",
+        "definicion_es": "Una partida personalizada donde los jugadores eligen campeones en modoDraft Pickpara luchar sólo en el carril medio.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "ADC (Attack Damage Carry)",
+        "definicion_es": "Campeón que basa su daño en los autoataques. Por lo mismo, suelen ser equipados con objetos que otorgan daño físico, velocidad de ataque y probabilidad de ataque crítico.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "AFK",
+        "definicion_es": "Lejos Del Teclado: Jugador que no controla a su campeón en la partida. También se usa para señalar a los jugadores desconectados mientras la partida se lleva a cabo.",
+        "termino_en": "AFK",
+        "definicion_en": "Away From Keyboard: a player who is not currently in control of their champion in a match."
+    },
+    {
+        "termino_es": "Away From Keyboard",
+        "definicion_es": "Lejos Del Teclado: Jugador que no controla a su campeón en la partida. También se usa para señalar a los jugadores desconectados mientras la partida se lleva a cabo.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Aggro",
+        "definicion_es": "El objetivo prioritario de un agente controlado por la I.A.(súbdito,torreta,monstruo, etc).",
+        "termino_en": "Aggro",
+        "definicion_en": "The targeting priority (or enmity) of an A.I. controlledminion,turret,monster, etc."
+    },
+    {
+        "termino_es": "Ali",
+        "definicion_es": "Alistar.",
+        "termino_en": "Ali",
+        "definicion_en": "Alistar."
+    },
+    {
+        "termino_es": "Ani",
+        "definicion_es": "Anivia.",
+        "termino_en": "Ani",
+        "definicion_en": "Anivia."
+    },
+    {
+        "termino_es": "Aniv",
+        "definicion_es": "Anivia.",
+        "termino_en": "Aniv",
+        "definicion_en": "Anivia."
+    },
+    {
+        "termino_es": "AoE (Area of Effect))",
+        "definicion_es": "Área de efecto: Habilidades que causan daño en área y no sólo a un campeón determinado.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "AP (Ability Power)",
+        "definicion_es": "Poder de Habilidad.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "ARAB (All Random All Bottom)",
+        "definicion_es": ": Partida personalizada que se juega en el carril inferior de laCicatriz de Cristal.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "ARAM (All Random All Mid)",
+        "definicion_es": ": Partida personalizada donde los jugadores eligen campeones aleatoriamente para luchar únicamente en el carril medio.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "PH",
+        "definicion_es": "Poder de habi.",
+        "termino_en": "AP",
+        "definicion_en": "Ability power."
+    },
+    {
+        "termino_es": "ArPen",
+        "definicion_es": "Penetración de Armadura.",
+        "termino_en": "Armor Pen",
+        "definicion_en": "Armor penetration."
+    },
+    {
+        "termino_es": "Armor Penetration",
+        "definicion_es": "Penetración de Armadura.",
+        "termino_en": "Armor Pen",
+        "definicion_en": "Armor penetration."
+    },
+    {
+        "termino_es": "AS",
+        "definicion_es": "Velocidad de Ataque.",
+        "termino_en": "AS",
+        "definicion_en": "Attack speed."
+    },
+    {
+        "termino_es": "ATS",
+        "definicion_es": "Velocidad de Ataque.",
+        "termino_en": "AS",
+        "definicion_en": "Attack speed."
+    },
+    {
+        "termino_es": "ASPD",
+        "definicion_es": "Velocidad de Ataque.",
+        "termino_en": "PD",
+        "definicion_en": "Phantom Dancer"
+    },
+    {
+        "termino_es": "Attack Speed",
+        "definicion_es": "Velocidad de Ataque.",
+        "termino_en": "Auto attack",
+        "definicion_en": "Basic attack, which is nicknamedAuto attacksince the champion can repeat without new orders."
+    },
+    {
+        "termino_es": "Asesino",
+        "definicion_es": "Campeón que tiene la capacidad de emboscar y eliminar rápidamente a sus enemigos. Sus habilidades suelen incluir el ocultamiento (invisibilidad momentánea) o una fuerte embestida.",
+        "termino_en": "Assassin",
+        "definicion_en": "Champions who can rapidly eliminate targets to the extent of being so quick the target cannot even react. Assassins' kit typically features a form of gap closer to reach an enemy, large burst for when they do, and a form of escape."
+    },
+    {
+        "termino_es": "Asistencia",
+        "definicion_es": "Ayudar a un aliado a eliminar a un campeón enemigo.",
+        "termino_en": "Riot Special",
+        "definicion_en": "(verb or compound noun)  The act of Riot's game designersnerfinga champion or a group of champions as well as a system (item, buff, rune, playstyle, etc.) that they commonly utilize in the currentmeta, both with the same intent, and leaving said champion(s) as the complete opposite side of balance than they were before."
+    },
+    {
+        "termino_es": "Aura",
+        "definicion_es": "HabilidadPasivade la que pueden tomar beneficio campeones aliados que se encuentren dentro del rango en el que el objeto o campeón actúa.",
+        "termino_en": "Aura",
+        "definicion_en": "A passive ability that usually applies to the champion and those around the champion."
+    },
+    {
+        "termino_es": "Aura Platform",
+        "definicion_es": "Un campeón que se equipa con varios objetos poseedores de \"Pasiva: Aura\" para asistir a sus compañeros.",
+        "termino_en": "Aura platform",
+        "definicion_en": "A champion who is equipped with multiple aura-producing items to assist teammates."
+    },
+    {
+        "termino_es": "Aura Bot",
+        "definicion_es": "Un campeón que se equipa con varios objetos poseedores de \"Pasiva: Aura\" para asistir a sus compañeros.",
+        "termino_en": "Aura bot",
+        "definicion_en": "A champion who is equipped with multiple aura-producing items to assist teammates."
+    },
+    {
+        "termino_es": "B",
+        "definicion_es": "Back: Retirarse en dirección a la base aliada o buscando alejarse del enemigo.",
+        "termino_en": "B",
+        "definicion_en": "Back: to retreat in the general direction of your base or away from the enemy."
+    },
+    {
+        "termino_es": "Babysit (Niñera)",
+        "definicion_es": "Campeón que continuamente asiste a un aliado determinado.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Bait (Carnada)",
+        "definicion_es": "Ofrecerse de señuelo para atraer al enemigo a una trampa.",
+        "termino_en": "Boosted (animal)",
+        "definicion_en": "Describes a lower skilled player that has been undeservingly placed in a higher skill bracket. Coined byMichael Santana."
+    },
+    {
+        "termino_es": "Banana",
+        "definicion_es": "AutoataquedeSoraka",
+        "termino_en": "Banana",
+        "definicion_en": "Soraka'sautoattack which is shaped like a banana. Inspiration forOrder of the Banana Soraka."
+    },
+    {
+        "termino_es": "Baron",
+        "definicion_es": "Hace referencia tanto al monstruo neutralBaron Nashorcomo al buff que otorga.",
+        "termino_en": "Baron",
+        "definicion_en": "Baron Nashor."
+    },
+    {
+        "termino_es": "Base",
+        "definicion_es": "El área protegida donde se encuentra laTienda,NexoeInhibidores.",
+        "termino_en": "Base",
+        "definicion_en": "The walled area where theshop,nexusandinhibitorsare situated."
+    },
+    {
+        "termino_es": "Bear (Oso)",
+        "definicion_es": "Volibear.",
+        "termino_en": "Bear",
+        "definicion_en": "Volibear"
+    },
+    {
+        "termino_es": "BC",
+        "definicion_es": "The Black Cleaver - La Cuchilla Oscura.",
+        "termino_en": "BC",
+        "definicion_en": "Black Cleaver"
+    },
+    {
+        "termino_es": "BD",
+        "definicion_es": "Atacar el nexo enemigo sin que el mismo enemigo esté en su base y sin el soporte deminionsaliados.",
+        "termino_en": "BD",
+        "definicion_en": "To approach the enemy'snexuswhile most of them are focused elsewhere. Typically this is done by sneaking through the jungle and only becoming revealed to the opposing team as late as possible."
+    },
+    {
+        "termino_es": "Backdoor",
+        "definicion_es": "Atacar el nexo enemigo sin que el mismo enemigo esté en su base y sin el soporte deminionsaliados.",
+        "termino_en": "Backdoor",
+        "definicion_en": "To approach the enemy'snexuswhile most of them are focused elsewhere. Typically this is done by sneaking through the jungle and only becoming revealed to the opposing team as late as possible."
+    },
+    {
+        "termino_es": "BF",
+        "definicion_es": "Espadón.",
+        "termino_en": "BF",
+        "definicion_en": "B. F. Sword."
+    },
+    {
+        "termino_es": "BFS",
+        "definicion_es": "Espadón.",
+        "termino_en": "BFS",
+        "definicion_en": "B. F. Sword."
+    },
+    {
+        "termino_es": "Big Freaking Sword",
+        "definicion_es": "Espadón.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "BG",
+        "definicion_es": "Mal juego.",
+        "termino_en": "BG",
+        "definicion_en": "Bad Game."
+    },
+    {
+        "termino_es": "Bad Game",
+        "definicion_es": "Mal juego.",
+        "termino_en": "Mid game",
+        "definicion_en": "The point of the game where champions have typically completed an item or three, take a shorter time to clear minion waves and monsters, and when most of the regular map and objective control takes place. Preceded by theearly gameand followed by thelate game."
+    },
+    {
+        "termino_es": "Bird (Pájaro)",
+        "definicion_es": "Anivia.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Blind",
+        "definicion_es": "CegueraCeguera: Una habilidad deControl de Masasque provoca que el objetivo falle todos susautoataquesmientras dure el efecto de la habilidad.",
+        "termino_en": "Backline",
+        "definicion_en": "The champions that are positioning furthest away from the enemy team.Opposite offrontline."
+    },
+    {
+        "termino_es": "Blind pick",
+        "definicion_es": "Un tipo de partida donde todos los participantes seleccionan a sus campeones simultáneamente. Ninguno de los dos equipos puede ver la selección enemiga hasta que la pantalla de carga aparezca. Un mismo campeón puede ser elegido por un aliado y un enemigo en la misma partida.",
+        "termino_en": "Counter pick",
+        "definicion_en": "To choose a particular champion during the selection phase in order to oppose a particular enemy champion."
+    },
+    {
+        "termino_es": "Blitz",
+        "definicion_es": "Blitzcrank.",
+        "termino_en": "Blitz",
+        "definicion_en": "Blitzcrank."
+    },
+    {
+        "termino_es": "Blue",
+        "definicion_es": "Blue Buff:Crest of the Ancient Golem. Se refiere al buff que otorga el monstruo neutralGólem AncestralGólem Ancestral.",
+        "termino_en": "Blue",
+        "definicion_en": "Blue Buff:Crest of Insight. By extension, can also refer to theBlue Sentinel."
+    },
+    {
+        "termino_es": "BotRK",
+        "definicion_es": "Blade of the Ruined King - Espada del Rey Arruinado.",
+        "termino_en": "BotRK",
+        "definicion_en": "Blade of the Ruined King."
+    },
+    {
+        "termino_es": "Bot",
+        "definicion_es": "Bottom lane. Carril inferior.",
+        "termino_en": "Bot",
+        "definicion_en": "Bottom lane."
+    },
+    {
+        "termino_es": "Bot game",
+        "definicion_es": "Co-op vs. AI: Partida personalizada donde los jugadores luchan contra oponentes manejados mediante Inteligencia Artificial.",
+        "termino_en": "Bot game",
+        "definicion_en": "Co-op vs. AI."
+    },
+    {
+        "termino_es": "BRB",
+        "definicion_es": "\"Vuelvo ahora mismo\" o  \"Regreso Enseguida\". Expresión utilizada para avisar al equipo que se está volviendo a  base.",
+        "termino_en": "BRB",
+        "definicion_en": "Be right back."
+    },
+    {
+        "termino_es": "Be right back",
+        "definicion_es": "\"Vuelvo ahora mismo\" o  \"Regreso Enseguida\". Expresión utilizada para avisar al equipo que se está volviendo a  base.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Broken",
+        "definicion_es": "Cuando un elemento en el juego está desbalanceado o funciona mal (puede ser un campeón, objeto, hechizo, etc)",
+        "termino_en": "Broken",
+        "definicion_en": "When something within the game is viewed as grossly imbalanced or malfunctioning (a champion, an item, a spell, etc.)."
+    },
+    {
+        "termino_es": "Ban",
+        "definicion_es": "Bloquear personajes durante los modos Clasificatoria y Normal Draft Pick para evitar que los use el equipo enemigo. Sólo se pueden bloquear tres personajes por equipo.",
+        "termino_en": "Baron",
+        "definicion_en": "Baron Nashor."
+    },
+    {
+        "termino_es": "Banear",
+        "definicion_es": "Bloquear personajes durante los modos Clasificatoria y Normal Draft Pick para evitar que los use el equipo enemigo. Sólo se pueden bloquear tres personajes por equipo.",
+        "termino_en": "Bear",
+        "definicion_en": "Volibear"
+    },
+    {
+        "termino_es": "Bruiser",
+        "definicion_es": "Campeón que causa daño masivo (físico) a través de combos con sus habilidades.",
+        "termino_en": "Bruteforce",
+        "definicion_en": "To agressively push an objective without regard for enemy counterattack."
+    },
+    {
+        "termino_es": "Brush",
+        "definicion_es": "Arbustos diseminados por los mapas, donde los campeones pueden esconderse.",
+        "termino_en": "Push",
+        "definicion_en": "To continue advancing forward in a lane, clearing it of minions and towers."
+    },
+    {
+        "termino_es": "Bush",
+        "definicion_es": "Arbustos diseminados por los mapas, donde los campeones pueden esconderse.",
+        "termino_en": "Push",
+        "definicion_en": "To continue advancing forward in a lane, clearing it of minions and towers."
+    },
+    {
+        "termino_es": "BT",
+        "definicion_es": "The Bloodthirster - La Sanguinaria.",
+        "termino_en": "BT",
+        "definicion_en": "Bloodthirster."
+    },
+    {
+        "termino_es": "Buff",
+        "definicion_es": "Un efecto positivo que se aplica a un campeón.",
+        "termino_en": "Buff",
+        "definicion_en": "(Abilities) A positive effect applied to a champion."
+    },
+    {
+        "termino_es": "Build",
+        "definicion_es": "Conjunto de objetos adquiridos por un campeón durante la partida.",
+        "termino_en": "Zil",
+        "definicion_en": "Zilean"
+    },
+    {
+        "termino_es": "Bug",
+        "definicion_es": "Un defecto no intencional en las mecánicas del juego.",
+        "termino_en": "Bug",
+        "definicion_en": "A defect in the mechanics of the game that is not intended."
+    },
+    {
+        "termino_es": "Burst",
+        "definicion_es": "Una gran cantidad de daño causado en muy poco tiempo. Por lo general ese daño se le produce a un solo campeón.",
+        "termino_en": "Burst",
+        "definicion_en": "A large amount of damage being dealt in a short time, pertaining particularly to the damage dealt by a single champion.Nukeis also a commonly used term."
+    },
+    {
+        "termino_es": "Cait",
+        "definicion_es": "Caitlyn.",
+        "termino_en": "Cait",
+        "definicion_en": "Caitlyn."
+    },
+    {
+        "termino_es": "Cap",
+        "definicion_es": "Capturar una torre en Dominion.",
+        "termino_en": "Cap",
+        "definicion_en": "Rabadon's Deathcap."
+    },
+    {
+        "termino_es": "Care",
+        "definicion_es": "Ser cuidadoso ante posible gank o algún otro tipo de peligro.",
+        "termino_en": "Care",
+        "definicion_en": "To be careful, implying a possiblegankincoming or any other kind of danger."
+    },
+    {
+        "termino_es": "Carry",
+        "definicion_es": "Un campeón que generalmente comienza más débil que otros campeones, pero se vuelve más poderoso mientras progresa el juego.",
+        "termino_en": "Carry",
+        "definicion_en": "A champion that is designed to become powerful in damage by acquiring resources, thereby \"carrying\" the rest of the team on their back. Also seeADCandAPC."
+    },
+    {
+        "termino_es": "Cass / Cassio",
+        "definicion_es": "Cassiopeia.",
+        "termino_en": "Assassin",
+        "definicion_en": "Champions who can rapidly eliminate targets to the extent of being so quick the target cannot even react. Assassins' kit typically features a form of gap closer to reach an enemy, large burst for when they do, and a form of escape."
+    },
+    {
+        "termino_es": "Caster",
+        "definicion_es": "Un campeón cuyo principal fuente de daño son sus habilidades. El daño puede ser mágico o físico, y puede escalar con AP (poder de habilidad) o AD (daño de ataque).",
+        "termino_en": "Caster",
+        "definicion_en": "A champion whose main source of damage is their abilities. The damage can be either magic or physical damage, and can scale with eitherAPorAD."
+    },
+    {
+        "termino_es": "Cat",
+        "definicion_es": "Nidalee.",
+        "termino_en": "Cat",
+        "definicion_en": "Nidalee."
+    },
+    {
+        "termino_es": "CC",
+        "definicion_es": "Crowd control- Control de Masas: Una categoría de efectos negativos que impiden el normal desempeño del campeón, ya sea afectando su movimiento o sus acciones.",
+        "termino_en": "CC",
+        "definicion_en": "Crowd control: A category of status effects which limit movement or actions."
+    },
+    {
+        "termino_es": "CD",
+        "definicion_es": "Cooldown. Enfriamiento.",
+        "termino_en": "CD",
+        "definicion_en": "Cooldown"
+    },
+    {
+        "termino_es": "CDR",
+        "definicion_es": "Cooldown reduction. Reducción de enfriamiento.",
+        "termino_en": "CDR",
+        "definicion_en": "Cooldown reduction."
+    },
+    {
+        "termino_es": "Chain CC",
+        "definicion_es": "Usar consecutivamente varias habilidades con Control de Masas sobre el mismo campeón enemigo.",
+        "termino_en": "Chain CC",
+        "definicion_en": "To consecutively use multiple crowd control spells on an enemy champion."
+    },
+    {
+        "termino_es": "Champ",
+        "definicion_es": "Campeón: personaje que el jugador selecciona (\"Invoca\") para usarlo en la partida.",
+        "termino_en": "Champ",
+        "definicion_en": "Achampion; a particular character that the summoner calls on and controls."
+    },
+    {
+        "termino_es": "Channelling (Canalizar)",
+        "definicion_es": "Tiempo de casteo que requieren algunas habilidades para ser utilizadas. Este tipo de hechizos pueden ser interrumpidos por cualquier habilidad que posea un duro CC (como el Stun)",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Chase",
+        "definicion_es": "Acosar a un enemigo para que retroceda.",
+        "termino_en": "Cheese",
+        "definicion_en": "An unexpected strategy, often early game oriented, that allows a player to kill or otherwise significantly cripple an enemy (generally during the first two levels), gain a lead, then snowball."
+    },
+    {
+        "termino_es": "Cho",
+        "definicion_es": "Cho'Gath.",
+        "termino_en": "Cho",
+        "definicion_en": "Cho'Gath."
+    },
+    {
+        "termino_es": "Collapsing",
+        "definicion_es": "Cuando los jugadores aliados coordinan entre ellos para converger y abrumar al equipo enemigo.",
+        "termino_en": "Collapsing",
+        "definicion_en": "When allied players converge and overwhelm the enemy team."
+    },
+    {
+        "termino_es": "Commit",
+        "definicion_es": "No retirarse. Permanecer en la lucha hasta que la batalla termine o hasta que tu campeón sea eliminado.",
+        "termino_en": "Commit",
+        "definicion_en": "To not retreat. To stay in a fight until the battle is over, or until your champion is slain."
+    },
+    {
+        "termino_es": "Counter gank",
+        "definicion_es": "Arreglar una emboscada como respuesta inmediata a otra emboscada de los enemigos, con la intención de negar o frustrar la ventaja que podrían haber obtenido con ese primer ataque.",
+        "termino_en": "Counter gank",
+        "definicion_en": "Setting up an ambush in immediate response to an enemy ambush with the intention of negating or thwarting the advantage gained by the enemy's attack."
+    },
+    {
+        "termino_es": "Counter jungle / Contra Jungla",
+        "definicion_es": "Asesinar monstruos neutrales en la jungla del equipo enemigo, privándolos de mejoras, oro y experiencia.",
+        "termino_en": "Counter jungle",
+        "definicion_en": "To slay the neutral creeps in the enemy's side of the jungle, depriving the enemy team of buffs, gold and experience."
+    },
+    {
+        "termino_es": "Counter pick",
+        "definicion_es": "Elegir un campeón en particular durante la fase de selección para hacerle contra a un campeón enemigo determinado.",
+        "termino_en": "Counter pick",
+        "definicion_en": "To choose a particular champion during the selection phase in order to oppose a particular enemy champion."
+    },
+    {
+        "termino_es": "Cover",
+        "definicion_es": "Un jugador requiere la ayuda de otro compañero para congelar la línea mientras no está allí (Para más datos, ver \"babysit\" y \"hold.\")",
+        "termino_en": "Cover",
+        "definicion_en": "A player request for another teammate to hold the player's lane while they're not there. (See \"babysit\" and \"hold.\")"
+    },
+    {
+        "termino_es": "Cow",
+        "definicion_es": "Alistar.",
+        "termino_en": "Cow",
+        "definicion_en": "Alistarand more specificallyMoo Cow Alistar."
+    },
+    {
+        "termino_es": "Creeps",
+        "definicion_es": "Monstersandminions.",
+        "termino_en": "Creeps",
+        "definicion_en": "Minionsandmonsters. SeeCreep scoredefinition."
+    },
+    {
+        "termino_es": "CS",
+        "definicion_es": "En inglés,Creeps SlainoCreep Score, cantidad de súbditos y monstruos asesinados. Es un término adaptado deDotA.",
+        "termino_en": "CS",
+        "definicion_en": "Creep Score, an adapted term fromDotA. It measures the number of minions and jungle camps killed."
+    },
+    {
+        "termino_es": "Custom",
+        "definicion_es": "Custom game- Partida Personalizada: Partida creada por un jugador, quien decide los factores del juego, ya sea cantidad de aliados y enemigos, mapa, si habrá algún campeón controlado por  la I.A. e incluso puede colocar una contraseña al encuentro para bloquear el acceso a jugadores que busquen partidas públicamente.",
+        "termino_en": "Custom",
+        "definicion_en": "Custom game: the match mode created by player with the freedom to determine the team size, map, A.I. controlled champion participation and install a password for limited access."
+    },
+    {
+        "termino_es": "D / Def",
+        "definicion_es": "Defender: proteger la torreta o base sin atacar agresivamente.",
+        "termino_en": "Def",
+        "definicion_en": "Defend: to protect the tower or base without attacking aggressively."
+    },
+    {
+        "termino_es": "DFG",
+        "definicion_es": "Deathfire Grasp - Garra de la Muerte Ignea",
+        "termino_en": "DFG",
+        "definicion_en": "Deathfire Grasp."
+    },
+    {
+        "termino_es": "DC",
+        "definicion_es": "Disconnected - Desconectado, sinónimo de AFK.",
+        "termino_en": "DC",
+        "definicion_en": "Disconnected."
+    },
+    {
+        "termino_es": "DD",
+        "definicion_es": "Direct damage - Daño Directo.",
+        "termino_en": "D",
+        "definicion_en": "The first of twosummoner spellsthe player can allot, bound to D by default."
+    },
+    {
+        "termino_es": "Debuff",
+        "definicion_es": "Un efecto negativo aplicado sobre un campeón; el contrario de mejora obuff.",
+        "termino_en": "Debuff",
+        "definicion_en": "A negative effect applied to a champion; the opposite of abuff."
+    },
+    {
+        "termino_es": "Deny",
+        "definicion_es": "Eliminar minions aliados para evitar que el rival gane oro y experiencia. Sinónimo de \"Zonear\"",
+        "termino_en": "Deny",
+        "definicion_en": "To kill alliedminionsorpets, preventing the opponent from earning the gold and experience from killing them. While this feature is common in other MOBA games, it is intentionally absent fromLeague of Legendsand replaced withzoningtactics."
+    },
+    {
+        "termino_es": "Di",
+        "definicion_es": "Diana.",
+        "termino_en": "Dive",
+        "definicion_en": "To pursue a specific target into a highly dangerous area, typically beneath an enemy turret."
+    },
+    {
+        "termino_es": "Disable",
+        "definicion_es": "Un modo de Control de Masas que previene que el enemigo ejecute acciones particulares.",
+        "termino_en": "Double",
+        "definicion_en": "Single-handedly achieving two championkillswithin ten seconds of each other."
+    },
+    {
+        "termino_es": "Dive",
+        "definicion_es": "Acosar a un objetivo determinado en un área altamente peligrosa, típicamente, alrededor de la torreta enemiga.",
+        "termino_en": "Dive",
+        "definicion_en": "To pursue a specific target into a highly dangerous area, typically beneath an enemy turret."
+    },
+    {
+        "termino_es": "Dodge",
+        "definicion_es": "Queue dodge. Salir de una selección de campeones antes de que comience la pantalla de carga.",
+        "termino_en": "Dodge",
+        "definicion_en": "To disband champion select without mutual consent."
+    },
+    {
+        "termino_es": "Dog",
+        "definicion_es": "Nasus.",
+        "termino_en": "Dog",
+        "definicion_en": "Nasus."
+    },
+    {
+        "termino_es": "Donger",
+        "definicion_es": "Heimerdinger.",
+        "termino_en": "Donger",
+        "definicion_en": "Heimerdinger. (coined byMichael Santana)"
+    },
+    {
+        "termino_es": "DoT",
+        "definicion_es": "Efecto de daño a lo largo del tiempo ('Damage over Time').",
+        "termino_en": "DoT",
+        "definicion_en": "Damage over timeeffect."
+    },
+    {
+        "termino_es": "Double kill / Asesinato Doble",
+        "definicion_es": "Eliminar a dos enemigos en muy poco tiempo.",
+        "termino_en": "Double kill",
+        "definicion_en": "Single-handedly achieving two championkillswithin ten seconds of each other."
+    },
+    {
+        "termino_es": "DPS",
+        "definicion_es": "Daño por segundo (por ejemplovelocidad de ataque).",
+        "termino_en": "DPS",
+        "definicion_en": "Damage per second. A measure of how much damage a champion or team can deal each second."
+    },
+    {
+        "termino_es": "Draft",
+        "definicion_es": "Draft Pick: Un tipo de selección de campeones donde los participantes deben primero atravesar el proceso de banning (bloqueo de campeones), pueden ver lo que el enemigo elige y no es posible repetir el mismo campeón en ambos bandos.",
+        "termino_en": "Drag",
+        "definicion_en": "Either a reference to theDrakeneutral objective, or a call to contest it. \"Drag\" and \"dragon\" may be used by veteran players, because the objective in place of Drakes used to be \"The Dragon\"."
+    },
+    {
+        "termino_es": "Drag / Drake",
+        "definicion_es": "DragonDragon.",
+        "termino_en": "Drain tank",
+        "definicion_en": "The act of lifestealing (or using spellvamp/other forms of sustain in case of casters) damage done against enemies to tank their damage. Champions which do this are difficult to kill, especially in 1x1 situations, because they heal through all the damage done, and even if they don't do a lot of damage back, they can win the duel just because the enemy cannot burst them down quickly enough to prevent them from healing back. However, if their sustain is reduced or denied (because they are under CC effects or unable to attack), they can become easy to kill, since they tend to not have or to have less actual tankyness to fall back on. Examples of champions designed to be drain tanks areAatrox,Warwick, andOlaf."
+    },
+    {
+        "termino_es": "Duellist",
+        "definicion_es": "Un campeón que destaca combatiendo campeones enemigos de a uno por vez. (ej.Fiora,Jax).",
+        "termino_en": "Duelist",
+        "definicion_en": "Achampionwho excels at combating enemy champions one on one (e.g.Fiora,Jax)."
+    },
+    {
+        "termino_es": "E",
+        "definicion_es": "La tercer habilidad de campeón, ubicada en la tecla \"E\" (configuración por defecto)",
+        "termino_en": "E",
+        "definicion_en": "The thirdchampion abilitywhich is bound to the \"E\" key by default."
+    },
+    {
+        "termino_es": "Egg",
+        "definicion_es": "RebirthdeAnivia",
+        "termino_en": "Egg",
+        "definicion_en": "AniviaduringRebirth, officially dubbed by the game's chat."
+    },
+    {
+        "termino_es": "Elo",
+        "definicion_es": "Un rating matemático que especifica la habilidad relativa del jugador.",
+        "termino_en": "Elo",
+        "definicion_en": "A mathematical rating system for a player's relative skill level."
+    },
+    {
+        "termino_es": "Elo hell",
+        "definicion_es": "Un nivel de Elo de donde al jugador se le complica salir.",
+        "termino_en": "Elo hell",
+        "definicion_en": "A perceived Elo level where it is very difficult or frustrating for a player to get out of."
+    },
+    {
+        "termino_es": "Eve",
+        "definicion_es": "Evelynn",
+        "termino_en": "Eve",
+        "definicion_en": "Evelynn"
+    },
+    {
+        "termino_es": "Executed (Ejecutado)",
+        "definicion_es": "Muerte producida por un elemento externo al campeón enemigo (puede ser por monstruos neutrales, minions o torretas). Este tipo de muerte no otorga oro ni experiencia al equipo contrario.",
+        "termino_en": "Execute",
+        "definicion_en": "An ability intended to eliminate a champion. Examples includePyke'sDeath from BelowandJinx'sSuper Mega Death Rocket!."
+    },
+    {
+        "termino_es": "Exp",
+        "definicion_es": "Puntos de Experiencia.",
+        "termino_en": "Exp",
+        "definicion_en": "Shorthand forexperiencepoints."
+    },
+    {
+        "termino_es": "Ez",
+        "definicion_es": "Ezreal",
+        "termino_en": "Ez",
+        "definicion_en": "Ezreal"
+    },
+    {
+        "termino_es": "Face check",
+        "definicion_es": "Un campeón que entra a un arbusto a ver si un enemigo está escondido allí. Puede ser una acción bastante peligrosa.",
+        "termino_en": "Face check",
+        "definicion_en": "A champion blindly walking into a brush to see if an enemy champion is hidden in there. This can be a very risky action."
+    },
+    {
+        "termino_es": "Fail flash",
+        "definicion_es": "Cuando el jugador usa su hechizoFlashde manera equivocada o cuando en medio de una huida, falla al intentar atravesar una pared con el mismo hechizo.",
+        "termino_en": "Hard leash",
+        "definicion_en": "To aid the allied jungler by helping them kill amonsterwithout the use ofSmite."
+    },
+    {
+        "termino_es": "Farm",
+        "definicion_es": "Eliminar minions para obtener oro y experiencia.",
+        "termino_en": "Farming",
+        "definicion_en": "To seek out and killcreepsto obtain experience and gold."
+    },
+    {
+        "termino_es": "FB",
+        "definicion_es": "First Blood- Primera Sangre: Primera muerte de la partida.",
+        "termino_en": "FB",
+        "definicion_en": "First Blood: the firstkillof the game."
+    },
+    {
+        "termino_es": "Fear",
+        "definicion_es": "Un efecto negativo que provoca que el objetivo vague a su alrededor incontrolablemente",
+        "termino_en": "Bear",
+        "definicion_en": "Volibear"
+    },
+    {
+        "termino_es": "Feedeado",
+        "definicion_es": "Es un campeón que se vuelve muy poderoso luego de obtener múltiples asesinatos sobre campeones enemigos.",
+        "termino_en": "Feed",
+        "definicion_en": "To repeatedly die to the enemy team, giving them gold and experience. A player who does this is afeeder."
+    },
+    {
+        "termino_es": "Feedear",
+        "definicion_es": "Morir repetidamente ante el equipo enemigo, dándoles oro y experiencia. Un jugador que hace esto es unfeeder.",
+        "termino_en": "Feed",
+        "definicion_en": "To repeatedly die to the enemy team, giving them gold and experience. A player who does this is afeeder."
+    },
+    {
+        "termino_es": "FF",
+        "definicion_es": "Refiere a /FF o \"forfeit\", sinónimo deSurrender",
+        "termino_en": "FF",
+        "definicion_en": "Refers to /ff or 'forfeit', another term forsurrendering."
+    },
+    {
+        "termino_es": "FFS",
+        "definicion_es": "For fuck's sake. Una expresión de enojo y frustración.",
+        "termino_en": "FFS",
+        "definicion_en": "“For fuck's sake”. An expression of anger or frustration."
+    },
+    {
+        "termino_es": "Fid / Fiddle",
+        "definicion_es": "Fiddlesticks",
+        "termino_en": "Fiddle",
+        "definicion_en": "Fiddlesticks"
+    },
+    {
+        "termino_es": "Fighter (Luchador)",
+        "definicion_es": "Un campeón híbrido entre \"Tanque\" y \"Daño\". En este grupo entran los Bruisers.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Fish",
+        "definicion_es": "Fizz",
+        "termino_en": "Fish",
+        "definicion_en": "Fizz"
+    },
+    {
+        "termino_es": "Flash-Destello",
+        "definicion_es": "Un hechizo de invocador que, activándolo, transporta al campeón a una corta distancia en dirección al cursor (flechita del mouse).",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Focus",
+        "definicion_es": "Dirigir los esfuerzos de un equipo hacia asesinar un objetivo específico, generalmente uno de alto valor estratégico como elcarryenemigo.",
+        "termino_en": "Noc",
+        "definicion_en": "Nocturne"
+    },
+    {
+        "termino_es": "Fog / Fow / Fog of War",
+        "definicion_es": "Áreas sombreadas del mapa, fuera del rango de visión de campeones aliados, minions y estructuras.",
+        "termino_en": "Fog of War",
+        "definicion_en": "The shadowed areas of the map which are out of the vision range of allied champions, minions and structures."
+    },
+    {
+        "termino_es": "Forced teamfight",
+        "definicion_es": "Cuando un equipo intenta tomar un objetivo a como dé lugar, obligando al enemigo a forzar una batalla para detenerlos.",
+        "termino_en": "Teamfight",
+        "definicion_en": "When multiple (e.g. the entire team) champions gather in one area to battle."
+    },
+    {
+        "termino_es": "Fountain (Fuente)",
+        "definicion_es": "Plataforma de piedra ubicada en cada base, donde los campeones resurgen luego de morir, regeneran vida y mana, y pueden comprar objetos.",
+        "termino_en": "Fountain",
+        "definicion_en": "The raised stone platforms located in each team'sbase, where champions will respawn after death, regenerate health and mana, and can purchaseitems."
+    },
+    {
+        "termino_es": "FPS",
+        "definicion_es": "Frames per second",
+        "termino_en": "FPS",
+        "definicion_en": "GraphicFramesPerSecond the game renders."
+    },
+    {
+        "termino_es": "Freezing",
+        "definicion_es": "Farmear un carril solo dando el último golpe para matar a los súbditos. Esto empuja la oleada lo más lentamente posible para evitar la posibilidad de ser emboscado.",
+        "termino_en": "Freezing",
+        "definicion_en": "Allowing the current and at least one succeeding minion wave to stay at about the same position in the lane close to, but outside, the upcoming ally turret while onlylast-hitting, as ally and enemy minions cyclically come and die. A successful freeze forces the enemy to either walk up into a hostile part of the lane to gain minion rewards and/or finally advance the minion wave, or give up the rewards and the wave state altogether and potentially lose a lot of resources over time. To \"break a freeze\" means to allow minions to finally assume a different position that can advance to the upcoming turret, naturally or throughshoving."
+    },
+    {
+        "termino_es": "GA",
+        "definicion_es": "Ángel Guardián(\"Guardian Angel\").",
+        "termino_en": "GA",
+        "definicion_en": "Guardian Angel"
+    },
+    {
+        "termino_es": "Game throw",
+        "definicion_es": "Tirar el juego; cuando el equipo que lleva una ventaja comete uno o varios errores que hace que pierdan esa ventaja, o toda la partida.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Gang / GP",
+        "definicion_es": "Gangplank",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Gank / Gankear",
+        "definicion_es": "Hacer una emboscada a uno o más enemigos desprevenidos con uno o más campeones aliados.",
+        "termino_en": "Banana",
+        "definicion_en": "Soraka'sautoattack which is shaped like a banana. Inspiration forOrder of the Banana Soraka."
+    },
+    {
+        "termino_es": "Gap closer",
+        "definicion_es": "Una habilidad o hechizo que acorta la distancia entre el campeón y el enemigo.",
+        "termino_en": "Gap closer",
+        "definicion_en": "An ability or spell that shortens the distance between the champion and the enemy."
+    },
+    {
+        "termino_es": "GG",
+        "definicion_es": "Buen juego (\"Good game\").",
+        "termino_en": "GG",
+        "definicion_en": "\"Good game.\""
+    },
+    {
+        "termino_es": "Ghoster",
+        "definicion_es": "Un jugador que observa a un jugador enemigo que está streameando su partida, para tener una ventaja durante la partida.",
+        "termino_en": "Ghosting",
+        "definicion_en": "Monitoring an enemy's and/or live spectator's perspective to gain informational advantages from learning things about the current game state they are not supposed to know (e.g. Enemy jungler's whereabouts, enemy ward placements, & important cooldowns). Usually done in order to gain access to the enemy team's minimap, causing many players who broadcast their gameplay live to obfuscate their minimap."
+    },
+    {
+        "termino_es": "GJ",
+        "definicion_es": "Buen trabajo (\"Good Job\").",
+        "termino_en": "GJ",
+        "definicion_en": "\"Good job!\""
+    },
+    {
+        "termino_es": "GL",
+        "definicion_es": "Buena suerte (\"Good Luck\").",
+        "termino_en": "GL",
+        "definicion_en": "\"Good luck!\""
+    },
+    {
+        "termino_es": "GLHF",
+        "definicion_es": "Buena suerte (\"Good Luck\"); Diviértanse (\"Have Fun\").",
+        "termino_en": "GLHF",
+        "definicion_en": "\"Good luck; have fun!"
+    },
+    {
+        "termino_es": "Glass cannon",
+        "definicion_es": "Un campeón o build que posee mucho daño pero poca defensa.",
+        "termino_en": "Glass cannon",
+        "definicion_en": "A champion/build that is high in damage but lacking defense. This primarily refers to building a champion purely for offense, sacrificing survivability."
+    },
+    {
+        "termino_es": "Global",
+        "definicion_es": "Una habilidad que puede golpear en cualquier parte del mapa (por ejemploFlecha de Cristal EncantadadeAshe).",
+        "termino_en": "Global",
+        "definicion_en": "An ability that can strike anywhere on the map (e.g.Gangplank'sCannon Barrage)."
+    },
+    {
+        "termino_es": "Glifo",
+        "definicion_es": "Un tipo derunaque principalmente mejora varias estadísticas de magia.",
+        "termino_en": "Global",
+        "definicion_en": "An ability that can strike anywhere on the map (e.g.Gangplank'sCannon Barrage)."
+    },
+    {
+        "termino_es": "Golem",
+        "definicion_es": "Ancient GolemAncient Golem, que otorga elCrest of the Ancient Golem(aka buff azul) luego de ser vencido.",
+        "termino_en": "Metagolem",
+        "definicion_en": "An incredibly strict build that can be flexed on a certain type of, or in more extreme cases, every champion, that dictates the meta by being unbelievably overpowered. The term is a portmanteau of the words \"metagame\" and \"golem\"."
+    },
+    {
+        "termino_es": "Gold",
+        "definicion_es": "Oro; la moneda de intercambio para comprar objetos dentro de la partida.",
+        "termino_en": "Hold",
+        "definicion_en": "To keep the lane from pushing into allied defenses. Primarily done by junglers while the laner is away."
+    },
+    {
+        "termino_es": "Golden Pose",
+        "definicion_es": "Pose dorada; activa delReloj de Arena de Zhonya",
+        "termino_en": "Golden Pose",
+        "definicion_en": "Anystasiseffect."
+    },
+    {
+        "termino_es": "GP10",
+        "definicion_es": "Oro cada 10; Objetos/maestrías/runas que generan oro adicional a lo largo del tiempo. Los objetos que generan oro son por lo general referidos incorrectamente como GP5.",
+        "termino_en": "GP10",
+        "definicion_en": "Items that generate extra gold over time. Gold generating items are often incorrectly referred to as GP5."
+    },
+    {
+        "termino_es": "Harass",
+        "definicion_es": "Presionar al rival causándole daño, mientras se evita recibirlo a cambio.",
+        "termino_en": "Harass",
+        "definicion_en": "Attacking an enemy while they are preoccupied with an action."
+    },
+    {
+        "termino_es": "Hard CC",
+        "definicion_es": "Un efecto de Control de Masas que interrumpe la canalización de habilidades.",
+        "termino_en": "Hard CC",
+        "definicion_en": "Crowd controlthat inhibits and stops movement and spell casting."
+    },
+    {
+        "termino_es": "Hard leash",
+        "definicion_es": "Asistir al jungla aliado atacando a un monstruo, reduciendo su salud para permitir a nuestro aliado dar el último golpe, perdiendo la menor cantidad de vida posible.",
+        "termino_en": "Hard leash",
+        "definicion_en": "To aid the allied jungler by helping them kill amonsterwithout the use ofSmite."
+    },
+    {
+        "termino_es": "Heal bot",
+        "definicion_es": "Soraka",
+        "termino_en": "Heal bot",
+        "definicion_en": "Refers toSorakacontributing nothing but healing."
+    },
+    {
+        "termino_es": "Hec / Heca",
+        "definicion_es": "Hecarim",
+        "termino_en": "Heca",
+        "definicion_en": "Hecarim"
+    },
+    {
+        "termino_es": "Heim / Heimer",
+        "definicion_es": "Heimerdinger",
+        "termino_en": "Heimer",
+        "definicion_en": "Heimerdinger"
+    },
+    {
+        "termino_es": "Hitbox",
+        "definicion_es": "Forma invisible que rodea a los modelos tridimensionales de las unidades en el juego, con el que se detectan las colisiones de habilidades y los colisiones entre unidades.",
+        "termino_en": "Rito",
+        "definicion_en": "An intended misspell of Riot Games, the company that develops League of Legends. This word is usually used semi-ironically when players spot humorously blatant problems in the game, which they typically respond with 'Rito pls'."
+    },
+    {
+        "termino_es": "HF",
+        "definicion_es": "Have Fun - Diviértanse",
+        "termino_en": "HF",
+        "definicion_en": "Have Fun"
+    },
+    {
+        "termino_es": "Hold",
+        "definicion_es": "Estar en una línea y proteger la torre para evitar que sea destruida por el enemigo. Por lo general, es tarea de los junglas, mientras el aliado correspondiente a esa línea no está allí.",
+        "termino_en": "Hold",
+        "definicion_en": "To keep the lane from pushing into allied defenses. Primarily done by junglers while the laner is away."
+    },
+    {
+        "termino_es": "Hook",
+        "definicion_es": "Habilidad que previene el movimiento y atrae hacia sí a un enemigo. Ejemplos incluyenThresh'sDeath SentenceorBlitzcrank'sRocket Grab",
+        "termino_en": "Hook",
+        "definicion_en": "Ability which prevents movement and brings an enemy towards the champion's position. Examples includeThresh'sDeath SentenceorBlitzcrank'sRocket Grab"
+    },
+    {
+        "termino_es": "Horse",
+        "definicion_es": "Hecarim",
+        "termino_en": "Horse",
+        "definicion_en": "Hecarim"
+    },
+    {
+        "termino_es": "Hourglass",
+        "definicion_es": "Zhonya's Hourglass - Reloj de Arena de Zhonya",
+        "termino_en": "Hourglass",
+        "definicion_en": "Zhonya's Hourglass"
+    },
+    {
+        "termino_es": "HP",
+        "definicion_es": "Health Points- Puntos de vida. También se puede traducir como Hit Points o Puntos de Impacto.",
+        "termino_en": "HP",
+        "definicion_en": "Health, also known as \"Hit Points\""
+    },
+    {
+        "termino_es": "HP5",
+        "definicion_es": "Health Regeneration per 5 seconds- Regeneración de vida cada 5 segundos.",
+        "termino_en": "HP5",
+        "definicion_en": "Health Regeneration per 5 seconds"
+    },
+    {
+        "termino_es": "Hybrid",
+        "definicion_es": "Campeón que puede usar dos o más tipos de build, ya que sus habilidades escalan tanto con AD como con AP.",
+        "termino_en": "Hybrid",
+        "definicion_en": "A champion with significant ability scalings from both AD and AP."
+    },
+    {
+        "termino_es": "Hypercarry",
+        "definicion_es": "Campeón que es extremadamente débil en early y (en ocasiones) mid game, pero escala muy bien en late game al punto de convertirse en imparable si tiene buen farm y/o está feed. Describe a algunos adc, comoTristana,Kog'MawoVayney también a otros campeones, comoPoppy,JaxoNasus.",
+        "termino_en": "Hypercarry",
+        "definicion_en": "Acarrythathyperscalesand whosekitoften features additional tools which reinforce scaling withlevels. Hyperscalers innately or by default become superior at the later stages of the game; they typically have a weakerearlyandmidgame to compensate, but theirlategame outputs can be unstoppably lethal and single-handedly win the game for their team.Attack damage,attack speed,critical strikechance and damage, and/or repeatableon-hit effects, all multiply each other;Marksman-class champions are the ones that best utilize all of these statistics, and a hyperscaling Marksman has a very high amount of all of them. However,AP carriesthat have similar multiplicative and exceptionally lethal outputs in the late game, can also be called hypercarries.Examples:Jinx,Kog'Maw(ADC) /Syndra,Karthus(APC)"
+    },
+    {
+        "termino_es": "IE",
+        "definicion_es": "Infinity Egde- Filo Infinito",
+        "termino_en": "IE",
+        "definicion_en": "Infinity Edge"
+    },
+    {
+        "termino_es": "Ignite",
+        "definicion_es": "Un hechizo de invocador que provoca daño verdadero durante unos segundos (hasta llegar a cierta cantidad) a un objetivo enemigo.",
+        "termino_en": "Initiate",
+        "definicion_en": "A champion performing an action which signals allied champions to begin the battle. Theinitiatormay act as bait and take heavy damage from the enemy in order to protect their allies from taking major damage."
+    },
+    {
+        "termino_es": "Inc / Incoming",
+        "definicion_es": "Advertencia usada para advertir a un jugador que uno o más enemigos van en su dirección, para que se cuide ante un muy posible gank. Algo contrario al MIA (Miss In Accion), que no indica en qué dirección desapareció el enemigo.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Inhib",
+        "definicion_es": "Inhibitor-Inhibidor: Estructura que previene el desarrollo de minions más podersos (super minions) por parte del enemigo.",
+        "termino_en": "Inhib",
+        "definicion_en": "Short forInhibitor"
+    },
+    {
+        "termino_es": "Inhibitor turret",
+        "definicion_es": "La torre que protege al inhibidor.",
+        "termino_en": "Initiate",
+        "definicion_en": "A champion performing an action which signals allied champions to begin the battle. Theinitiatormay act as bait and take heavy damage from the enemy in order to protect their allies from taking major damage."
+    },
+    {
+        "termino_es": "Initiate",
+        "definicion_es": "Un campeón que ejecuta una acción iniciadora, indicando a sus aliados que comiencen la batalla. El iniciador puede actuar como señuelo (Bait) y sufrir la mayor parte del daño enemigo (buscando que usen sus habilidades en él), mientras protege a sus compañeros.",
+        "termino_en": "Initiate",
+        "definicion_en": "A champion performing an action which signals allied champions to begin the battle. Theinitiatormay act as bait and take heavy damage from the enemy in order to protect their allies from taking major damage."
+    },
+    {
+        "termino_es": "Inner turrets",
+        "definicion_es": "Las tres torretas que se ubican fuera de los perímetros de la base.",
+        "termino_en": "Single target",
+        "definicion_en": "A targeting characteristic describing spells that affect only one target. Single-targeting is often used inprojectile-basedeffects."
+    },
+    {
+        "termino_es": "Instagib / Instakill",
+        "definicion_es": "Cuando un campeón o monstruo con la vida llena (o cerca de ello) sufre un daño letal en muy poco tiempo, siendo eliminado sin posibilidad de reaccionar.",
+        "termino_en": "Instakill",
+        "definicion_en": "Instant giblets or Instant kill: when a full health or nearly full health champion/monster takes lethal damage within such a short time that they essentially died instantly, with no chance to react."
+    },
+    {
+        "termino_es": "Instalock",
+        "definicion_es": "Instant lock: Una rápida selección y lockeo de un campeón en particular, sin tomar en cuenta las decisiones o pedidos del resto del equipo. Es una actitud muy anti-deportiva y proclive a reportes/sanciones.",
+        "termino_en": "Instalock",
+        "definicion_en": "Instant lock: to quickly select and lock-in a particular champion (or a random one) to prevent someone else from getting them, usually without previous warning to the rest of the team. This is often perceived as poor sportsmanship."
+    },
+    {
+        "termino_es": "Invade",
+        "definicion_es": "Ir al territorio enemigo, particularmente a su jungla. Suele hacerse antes de la salida de los minions, buscando robar los buff enemigos.",
+        "termino_en": "Invade",
+        "definicion_en": "To go into the enemy's territory, particularly their jungle."
+    },
+    {
+        "termino_es": "IP",
+        "definicion_es": "Influence Points. Puntos de Influencia.",
+        "termino_en": "WP",
+        "definicion_en": "Well Played"
+    },
+    {
+        "termino_es": "Item",
+        "definicion_es": "Objeto que se usa o equipa para mejorar la perfomance de los campeones en la partida.",
+        "termino_en": "Innate",
+        "definicion_en": "A champion's passive ability separate from their four main abilities, shorten toPorI."
+    },
+    {
+        "termino_es": "J4 / Jar / Jarv",
+        "definicion_es": "Jarvan IV",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Juke",
+        "definicion_es": "Amagar el ir en una dirección equivocada para engañar a un enemigo que te persigue en la jungla, provocando que te pierda de vista.",
+        "termino_en": "Juke",
+        "definicion_en": "The act of feinting an enemy into the wrong direction, usually done by breaking line of sight."
+    },
+    {
+        "termino_es": "Jungle",
+        "definicion_es": "Espacios poblados por monstruos neutrales, ubicados entre las líneas.",
+        "termino_en": "Jungling",
+        "definicion_en": "To kill monsters in the jungle."
+    },
+    {
+        "termino_es": "Jungler",
+        "definicion_es": "Campeón que cambia el luchar en una línea por obtener experiencia y oro eliminando a los monstruos neutrales de la jungla. Es quien se encarga del equilibrio de su equipo, emboscando a los campeones enemigos en sus lineas, buscando eliminarlos con ayuda de sus compañeros, o en todo caso, que pierdan tanto oro como experiencia.",
+        "termino_en": "Jungling",
+        "definicion_en": "To kill monsters in the jungle."
+    },
+    {
+        "termino_es": "Jungling",
+        "definicion_es": "Eliminar monstruos en la jungla.",
+        "termino_en": "Jungling",
+        "definicion_en": "To kill monsters in the jungle."
+    },
+    {
+        "termino_es": "Kar / Karth",
+        "definicion_es": "Karthus",
+        "termino_en": "Karth",
+        "definicion_en": "Karthus"
+    },
+    {
+        "termino_es": "Kass / Kassa",
+        "definicion_es": "Kassadin",
+        "termino_en": "Kass",
+        "definicion_en": "Kassadin"
+    },
+    {
+        "termino_es": "Kat / Kata",
+        "definicion_es": "Katarina",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Kha / Khaz / K6",
+        "definicion_es": "Kha'Zix",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Kill lane",
+        "definicion_es": "Combinación de dos campeones cuyo propósito específico es eliminar a los dos campeones enemigos durante la fase de líneas. Usualmente, esa táctica se utiliza en el carril inferior.",
+        "termino_en": "Kill lane",
+        "definicion_en": "A combination of the bottom lane selected for the specific purpose of slaying the opposing two champions during the laning phase."
+    },
+    {
+        "termino_es": "Killing spree",
+        "definicion_es": "Campeón que elimina al menos a 3 enemigos consecutivos sin haber caído.",
+        "termino_en": "Kill lane",
+        "definicion_en": "A combination of the bottom lane selected for the specific purpose of slaying the opposing two champions during the laning phase."
+    },
+    {
+        "termino_es": "Kit",
+        "definicion_es": "Set de habilidades que posee un campeón.",
+        "termino_en": "Kit",
+        "definicion_en": "A champion's set ofabilities."
+    },
+    {
+        "termino_es": "Kiter",
+        "definicion_es": "Un campeón que es particularmente bueno kiteando (por ejemploAshe).",
+        "termino_en": "Kite",
+        "definicion_en": "Maintaining safe distance from a pursuing target.Rangedchampions can leverage the advantage to keep attacking."
+    },
+    {
+        "termino_es": "Kite / Kitear",
+        "definicion_es": "Alejarse de un campeón enemigo mientras se lo ataca continuamente, de manera que el mismo es dañado pero no puede causar daño en respuesta.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Knockback",
+        "definicion_es": "Empujar al rival en la dirección opuesta al uso de la habilidad. El objetivo no puede moverse o actuar durante el efecto de la misma.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Knockup",
+        "definicion_es": "Interrumpir cualquier acción enemiga, enviándolo por los aires.",
+        "termino_en": "Lockout",
+        "definicion_en": "A state in which a champion is unable to perform certain actions. Associated tip:Lockout."
+    },
+    {
+        "termino_es": "Kog",
+        "definicion_es": "Kog'Maw",
+        "termino_en": "Kog",
+        "definicion_en": "Kog'Maw"
+    },
+    {
+        "termino_es": "KS",
+        "definicion_es": "Kill Steal: Dejar que un aliado esté a punto de eliminar a un enemigo y dar el último golpe (intencionalmente) para llevarse la muerte junto al oro por ella.",
+        "termino_en": "KS",
+        "definicion_en": "Kill steal: A kill assistant taking kill credit."
+    },
+    {
+        "termino_es": "Lag",
+        "definicion_es": "Reducción de la velocidad de respuesta (clickeas y responde un poco después) durante una partida. Se determina por la cantidad de latencia que pueda tenerse en ese momento, según internet o el servidor del juego. El lag severo puede derivar en una desconexión y contará como si hubieras dejado la partida si no reconectas antes de que la partida termine.",
+        "termino_en": "Lag",
+        "definicion_en": "Slow response during the match due to high network connection latency."
+    },
+    {
+        "termino_es": "Lag Spike",
+        "definicion_es": "Repentino y a menudo momentáneo período de lag severo.",
+        "termino_en": "Lag Spike",
+        "definicion_en": "A sudden and often momentary period of severe lag."
+    },
+    {
+        "termino_es": "Lane",
+        "definicion_es": "Los caminos por donde circulan los minions aliados y enemigos.",
+        "termino_en": "Laner",
+        "definicion_en": "The champion or player who occupies a certain lane during the early game."
+    },
+    {
+        "termino_es": "Laner",
+        "definicion_es": "Campeón o jugador que ocupa una cierta línea durante el early game (juego temprano).",
+        "termino_en": "Laner",
+        "definicion_en": "The champion or player who occupies a certain lane during the early game."
+    },
+    {
+        "termino_es": "Laning phase",
+        "definicion_es": "Primera parte de la partida enLa Grieta del InvocadoryEl Bosque Retorcido. Generalmente finaliza cuando una o dos torretas son destruídas.",
+        "termino_en": "Laning phase",
+        "definicion_en": "The typical starting point of a game where champions are low-level, take a longer time to clear minion waves and monsters, when there are very few neutral objectives and few points of control on the map to be contested and all champions focus mostly on farming. Technically ends with either the first Outerturretfalling orside lanesswapping around (instead of simplyroaming) in order to achieve better objective control, and officially ends with Turret Plating falling off. It is followed by themid game."
+    },
+    {
+        "termino_es": "Lantern (Linterna)",
+        "definicion_es": "Dark PassagedeThresh",
+        "termino_en": "Lantern",
+        "definicion_en": "Thresh'sDark Passage"
+    },
+    {
+        "termino_es": "Last hit",
+        "definicion_es": "Dar el golpe de gracia a un objetivo enemigo.",
+        "termino_en": "Last hit",
+        "definicion_en": "Getting the killing blow on a minion, creep, or enemy champion."
+    },
+    {
+        "termino_es": "LB",
+        "definicion_es": "LeBlanc",
+        "termino_en": "LB",
+        "definicion_en": "LeBlanc"
+    },
+    {
+        "termino_es": "Leave / Leaver",
+        "definicion_es": "Dejar el juego antes de que finalice, voluntariamente o no. Esto se encuentra regulado por el sistema deLeaver Buster, el cual sanciona a los jugadores que dejan partidas habitualmente.",
+        "termino_en": "Leaver",
+        "definicion_en": "Exiting the match before the game is finished, whether voluntarily or not. This is regulated by theLeaver Bustersystem."
+    },
+    {
+        "termino_es": "Lee",
+        "definicion_es": "Lee Sin",
+        "termino_en": "Leech",
+        "definicion_en": "Staying close enough to dying enemyminionsin order to shareXPwith a teammate without directly assisting them."
+    },
+    {
+        "termino_es": "LS",
+        "definicion_es": "Life steal- Robo de vida.",
+        "termino_en": "LS",
+        "definicion_en": "Lee Sin"
+    },
+    {
+        "termino_es": "Leech",
+        "definicion_es": "Estar en el rango de las unidades enemigas para ganar experiencia pero sin ayudar a sus compañeros a eliminar enemigos.",
+        "termino_en": "Leech",
+        "definicion_en": "Staying close enough to dying enemyminionsin order to shareXPwith a teammate without directly assisting them."
+    },
+    {
+        "termino_es": "Leo",
+        "definicion_es": "Leona",
+        "termino_en": "Leo",
+        "definicion_en": "Leona"
+    },
+    {
+        "termino_es": "Liss",
+        "definicion_es": "Lissandra",
+        "termino_en": "Liss",
+        "definicion_en": "Lissandra"
+    },
+    {
+        "termino_es": "LOL",
+        "definicion_es": "League of Legends, título del juego que nos interesa aquí.",
+        "termino_en": "LoL",
+        "definicion_en": "League of Legends, the title of the game itself."
+    },
+    {
+        "termino_es": "LOM",
+        "definicion_es": "Low On Mana - Bajo en Mana",
+        "termino_en": "LOM",
+        "definicion_en": "Low On Mana – See alsoOut of Mana"
+    },
+    {
+        "termino_es": "LW",
+        "definicion_es": "Last Whisper - Último Suspiro",
+        "termino_en": "LW",
+        "definicion_en": "Last Whisper"
+    },
+    {
+        "termino_es": "Main",
+        "definicion_es": "El mejor o más favorito campeón de un jugador. Por lo general, es el que mejor usa.",
+        "termino_en": "Main",
+        "definicion_en": "A player's best or favorite champion to use."
+    },
+    {
+        "termino_es": "Mana",
+        "definicion_es": "Recurso usado por muchos campeones para castear habilidades.",
+        "termino_en": "Main",
+        "definicion_en": "A player's best or favorite champion to use."
+    },
+    {
+        "termino_es": "Manaless",
+        "definicion_es": "Campeones que no cuentan con la estadística de mana.",
+        "termino_en": "Tankiness",
+        "definicion_en": "The quality of being able to take high amounts of damage, primarily through items that give defensive stats."
+    },
+    {
+        "termino_es": "Malp / Malph",
+        "definicion_es": "Malphite",
+        "termino_en": "Malph",
+        "definicion_en": "Malphite"
+    },
+    {
+        "termino_es": "Malz",
+        "definicion_es": "Malzahar",
+        "termino_en": "Malz",
+        "definicion_en": "Malzahar"
+    },
+    {
+        "termino_es": "Mao",
+        "definicion_es": "Maokai",
+        "termino_en": "Mao",
+        "definicion_en": "Maokai"
+    },
+    {
+        "termino_es": "Map (Mapa)",
+        "definicion_es": "Lugar donde los campeones luchan entre ellos.",
+        "termino_en": "Map awareness",
+        "definicion_en": "As a player, \"to have map awareness\" means to be conscious of the events occurring around the map, in order to potentially make decisions and strategize according to them."
+    },
+    {
+        "termino_es": "Map awareness",
+        "definicion_es": "Control de mapa: Ser consciente de lo que ocurre alrededor del mapa. Saber dónde pueden estar los enemigos y el tiempo de resurgimiento de los monstruos neutrales. Para incrementar dicho control, pueden usarse habilidades o items, siendo el más popular, elGuardián de Visión",
+        "termino_en": "Map awareness",
+        "definicion_en": "As a player, \"to have map awareness\" means to be conscious of the events occurring around the map, in order to potentially make decisions and strategize according to them."
+    },
+    {
+        "termino_es": "Map objective",
+        "definicion_es": "Objetivos del mapa: para ganar la partida, deben cumplirse ciertos objetivos, como lo son: tomar los buff azul y rojo, eliminar a Dragon y Baron, destruir torretas e inhibidores y finalmente ir a por el nexo enemigo.",
+        "termino_en": "Map objective",
+        "definicion_en": "A valuable mob or structure whose acquisition goes towards winning the match. These tasks include getting the blue and red buffs, slaying Drakes and Baron, destroying towers and inhibitors, etc."
+    },
+    {
+        "termino_es": "Mark",
+        "definicion_es": "Tipo derunaque se basa principalmente en aumentar parámetros físicos.",
+        "termino_en": "Macro",
+        "definicion_en": "The large-scale strategies players employ as their general game-plan. Refers to choices in map location, objectives, andvision.Related tomicro."
+    },
+    {
+        "termino_es": "Meta / Metagame",
+        "definicion_es": "Actual estilo del juego, que consiste en aspectos tales como la configuración de carril, jungla, y la composición del equipo.",
+        "termino_en": "Metagame",
+        "definicion_en": "The game's current most effective play style, consisting of aspects such as lane setup,jungling, and team composition."
+    },
+    {
+        "termino_es": "MF",
+        "definicion_es": "Miss Fortune",
+        "termino_en": "MF",
+        "definicion_en": "Miss Fortune"
+    },
+    {
+        "termino_es": "Mid",
+        "definicion_es": "Middlelane- Carril central.",
+        "termino_en": "Mid",
+        "definicion_en": "Mid"
+    },
+    {
+        "termino_es": "Mid top",
+        "definicion_es": "Al comienzo de Dominion, un jugador declara que capturará (o le pide a alguien que lo haga) la torreta central, para que el resto de los que van por ese carril puedan tomar la torreta de top.",
+        "termino_en": "Mid top",
+        "definicion_en": "At the beginning of Dominion, a player declares to capture the nearest middle capture point then rushes up to top."
+    },
+    {
+        "termino_es": "Mid turrets",
+        "definicion_es": "Las tres torretas que se ubican justo fuera de la base.",
+        "termino_en": "Mid top",
+        "definicion_en": "At the beginning of Dominion, a player declares to capture the nearest middle capture point then rushes up to top."
+    },
+    {
+        "termino_es": "Minion",
+        "definicion_es": "Unidad controlada mediante la I.A. que surgen a partir del nexo o punto capturado (sólo en Dominion) y marchan hacia las estructuras enemigas.",
+        "termino_en": "Winions",
+        "definicion_en": "Minions, especially when they overwhelm objectives such as towers or the nexus. Also, when they contribute to a lot of damage against a champion."
+    },
+    {
+        "termino_es": "Minion wave (Ola de minions)",
+        "definicion_es": "Grupo de minions surgidos de a una vez. Pueden acumularse si no se los elimina rápidamente o si no hay alguien en la linea.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Miss / SS / MIA",
+        "definicion_es": "\"Campeón enemigo perdido en acción\", cuando no puedes ver al enemigo correspondiente a tu linea. Puede llamárselo Miss, SS o MIA. Se usa para indicar a los aliados que ese campeón desaparecido puede estar preparando un gank en su línea, por lo que les recomienda tener cuidado.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Marksman (Tirador)",
+        "definicion_es": "Campeones que causan daño físico mediante el lanzamiento de proyectiles. Esta categoría encierra a casi todos los ADC.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "MOBA",
+        "definicion_es": "Multiplayer Online Battle Arena: Género de juegos que combina elementos tanto de RPG (Role Playing Game) como de RTS (Real-Time Strategy).",
+        "termino_en": "MOBA",
+        "definicion_en": "Multiplayer Online Battle Arena: a genre of games which brings many of the RPG (Role Playing Game) and RTS (Real-Time Strategy) elements together."
+    },
+    {
+        "termino_es": "Morde",
+        "definicion_es": "Mordekaiser",
+        "termino_en": "Morde",
+        "definicion_en": "Mordekaiser"
+    },
+    {
+        "termino_es": "MP5",
+        "definicion_es": "Mana regeneration per 5 seconds - Regeneración de mana cada 5 segundos.",
+        "termino_en": "MP5",
+        "definicion_en": "Mana regenerationper 5 seconds"
+    },
+    {
+        "termino_es": "MPen",
+        "definicion_es": "Magic Penetration- Penetración Mágica",
+        "termino_en": "MPen",
+        "definicion_en": "Magic penetration"
+    },
+    {
+        "termino_es": "MR / MRes / Mag Res",
+        "definicion_es": "Magic Resistance - Resistencia Mágica.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "MS / Mov Spd",
+        "definicion_es": "Movement Speed - Velocidad de movimiento",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Mundo",
+        "definicion_es": "Dr. Mundo",
+        "termino_en": "Mundo",
+        "definicion_en": "Dr. Mundo, who isn't actually a doctor, so he is called Mundo."
+    },
+    {
+        "termino_es": "Murder bridge",
+        "definicion_es": "Nombre alternativo del Abismo de los Lamentos. Al comienzo de la partida, en ocasiones el anunciador se refiere al mapa con este nombre.",
+        "termino_en": "Murder bridge",
+        "definicion_en": "Another name for theHowling Abyssmap. (At the start of the match, the announcer will occasionally refer to the 'Murder Bridge' rather than 'Howling Abyss'.)"
+    },
+    {
+        "termino_es": "N1",
+        "definicion_es": "Nice One - Sinónimo de \"Bien Hecho\"",
+        "termino_en": "N1",
+        "definicion_en": "\"Nice one!\""
+    },
+    {
+        "termino_es": "Naut / Nauti",
+        "definicion_es": "Nautilus",
+        "termino_en": "Nauti",
+        "definicion_en": "Nautilus"
+    },
+    {
+        "termino_es": "Nerf",
+        "definicion_es": "Modificación oficial a las mecánicas del juego, campeón, hechizo u objeto, haciéndolo menos poderoso. Es lo opuesto a \"buff\".",
+        "termino_en": "Nerf",
+        "definicion_en": "(Patch) An official modification to the game which makes something less powerful; opposite of abuff. The term is originally coined by users in the EverQuest forums describing patches reducing effects to the power of \"nerftoy weapons\"."
+    },
+    {
+        "termino_es": "Nexus",
+        "definicion_es": "Estructura primaria donde los minions son lanzados a cada línea. La partida se gana cuando el nexo enemigo es destruído.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Nexus turrets",
+        "definicion_es": "Las dos torretas que protegen el nexo.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "NJ",
+        "definicion_es": "Nice Job - Buen Trabajo",
+        "termino_en": "NJ",
+        "definicion_en": "\"Nice job!\""
+    },
+    {
+        "termino_es": "Noc",
+        "definicion_es": "Nocturne",
+        "termino_en": "Noc",
+        "definicion_en": "Nocturne"
+    },
+    {
+        "termino_es": "Nid / Nida",
+        "definicion_es": "Nidalee",
+        "termino_en": "Nida",
+        "definicion_en": "Nidalee"
+    },
+    {
+        "termino_es": "Noob",
+        "definicion_es": "Jugador sin habilidad/experiencia. Sinónimos de la palabra son \"nub\" y \"n00b\". Deriva de la palabra \"novato\" (newbie).",
+        "termino_en": "Elojob",
+        "definicion_en": "When a low-elo player pays a higher-skilled player to boost the low elo's account to higher elo. This practice is extremely controversial and is generally condemned by players and punished by Riot due to the problems that result from the inappropriate matchmaking."
+    },
+    {
+        "termino_es": "Normal",
+        "definicion_es": "Normal game",
+        "termino_en": "Sora",
+        "definicion_en": "Soraka"
+    },
+    {
+        "termino_es": "NPC",
+        "definicion_es": "Non-Player Character - Personaje no controlado por un jugador.",
+        "termino_en": "APC",
+        "definicion_en": "Also seeCarry.Ability Power Carry: a champion that has greatly increasing outputs ofability poweras the match progresses, and is relied on as the primary damage dealer. Counterpart to theAttack Damage Carry."
+    },
+    {
+        "termino_es": "Nuker",
+        "definicion_es": "Campeones que hacen daño magico masivo usando sus habilidades. Puede ser con una sola o en combo.",
+        "termino_en": "Nuke",
+        "definicion_en": "Any ability that deals huge amounts of damage, such asJavelin TossorRequiem.Burstdoes not mean the same because most characters' burst combos consist of multiple abilities."
+    },
+    {
+        "termino_es": "Off tank",
+        "definicion_es": "Campeón que se arma casi en totalidad como un tanque, pero que lleva al menos un objeto de daño.",
+        "termino_en": "Off tank",
+        "definicion_en": "A champion that has some attributes of a Tank (ability to soak damage, initiation ability, CC, etc.), but lacks in one or more areas."
+    },
+    {
+        "termino_es": "OMW",
+        "definicion_es": "On My Way - \"Voy en camino\"",
+        "termino_en": "OMW",
+        "definicion_en": "On My Way"
+    },
+    {
+        "termino_es": "OOM",
+        "definicion_es": "Out Of Mana - Sin mana",
+        "termino_en": "OOM",
+        "definicion_en": "Out Of Mana – See alsoLow On Mana"
+    },
+    {
+        "termino_es": "OP",
+        "definicion_es": "Overpowered - Campeón que por defecto es más poderoso (ya sea, teniendo más AD/Vida o armadura) o tiene cualidades que lo distinguen por sobre el resto (hard CC, habilidades que incrementan la armadura o hacen un daño desproporcionado, etc).",
+        "termino_en": "OP",
+        "definicion_en": "A champion or item (usually item builds) that are considered too strong in a particular meta."
+    },
+    {
+        "termino_es": "Ori",
+        "definicion_es": "Orianna",
+        "termino_en": "Ori",
+        "definicion_en": "Orianna"
+    },
+    {
+        "termino_es": "Outer turrets",
+        "definicion_es": "Las tres torretas más lejanas a la base.",
+        "termino_en": "Overtuned",
+        "definicion_en": "A champion which has overbearingly high numbers on their abilities (base damage, scalings, range, missile speed, etc) or their stats (base HP, HP per level, base AD, etc)."
+    },
+    {
+        "termino_es": "Pant / Panth",
+        "definicion_es": "Pantheon",
+        "termino_en": "Panth",
+        "definicion_en": "Pantheon"
+    },
+    {
+        "termino_es": "Party",
+        "definicion_es": "Jugador que invita a personas de su lista de amigos a formar equipo para jugar una partida. Si el monto de jugadores no alcanza el máximo (de 3 o 5, según el mapa), el equipo será rellenado con personas que estén buscando partida en solitario.",
+        "termino_en": "Path",
+        "definicion_en": "The line of movement that will be taken towards a destination after a movement order is issued."
+    },
+    {
+        "termino_es": "Path",
+        "definicion_es": "La ruta que se tomará para llegar a una ubicación.",
+        "termino_en": "Path",
+        "definicion_en": "The line of movement that will be taken towards a destination after a movement order is issued."
+    },
+    {
+        "termino_es": "Pathing",
+        "definicion_es": "La ruta que se tomará para llegar a una ubicación.",
+        "termino_en": "Pathing",
+        "definicion_en": "The line of movement that will be taken towards a destination after a movement order is issued."
+    },
+    {
+        "termino_es": "PBE",
+        "definicion_es": "Public Beta Environment, servidor público que se utiliza para testear posibles cambios a los contenidos del juego.",
+        "termino_en": "PBE",
+        "definicion_en": "Public Beta Environment, a testing realm for upcoming content."
+    },
+    {
+        "termino_es": "PD",
+        "definicion_es": "Phantom Dancer - Bailarín Espectral",
+        "termino_en": "PD",
+        "definicion_en": "Phantom Dancer"
+    },
+    {
+        "termino_es": "Peel / Peeling",
+        "definicion_es": "Acción de proteger a los aliados de ataques enemigos usando habilidades que posean Control de Masas.",
+        "termino_en": "Peeling",
+        "definicion_en": "To use abilities in order to prevent an enemy from damaging, disabling, and/or killing an ally champion.Crowd control,shielding,healing, and variousbuffsgiven to allies may achieve this."
+    },
+    {
+        "termino_es": "Penta",
+        "definicion_es": "Pentakill: Eliminar a los cinco campeones enemigos en muy poco tiempo.",
+        "termino_en": "Penta",
+        "definicion_en": "Pentakill- Single-handedly achievingfive championkillswithin 30 seconds of aQuadra kill. Often regarded as the highest display of champion mastery when the champion is meant to be acarry."
+    },
+    {
+        "termino_es": "Ping",
+        "definicion_es": "Latencia de la conexión a internet del jugador hacia el servidor del juego, midiéndose en \"ms\" (milisegundo, 1 ms = 0.001 segundo).",
+        "termino_en": "Ping",
+        "definicion_en": "Communication Pings."
+    },
+    {
+        "termino_es": "Pink",
+        "definicion_es": "Vision Ward - Guardián de Visión.",
+        "termino_en": "Pink",
+        "definicion_en": "The removedVision Wardcolored pink, which is succeeded byControl Ward. Control Wards are sometimes still referred to as pink wards."
+    },
+    {
+        "termino_es": "Poach",
+        "definicion_es": "Estrategia que consiste en aniquilar a cada monstruo de la jungla enemiga, buscando debilitar las posibilidades del equipo rival de obtener oro, experiencia y buffs en su propia jungla.",
+        "termino_en": "Poacher",
+        "definicion_en": "Poacher's Dirk"
+    },
+    {
+        "termino_es": "Poke",
+        "definicion_es": "Forma de hostigamiento (harass) que usa ataques de rango para causar de un pequeño a moderado daño buscando debilitar al enemigo, siempre manteniendo una posición segura.",
+        "termino_en": "Poke",
+        "definicion_en": "Using attacks and abilities from a distance in order to safely cause small to moderate damage to enemy health."
+    },
+    {
+        "termino_es": "Pony",
+        "definicion_es": "Hecarim",
+        "termino_en": "Pony",
+        "definicion_en": "Hecarim, generally used in a derogatory manner."
+    },
+    {
+        "termino_es": "Position / Positioning (Posicionamiento)",
+        "definicion_es": "Ubicación de un campeón durante la batalla. El buen \"posicionamiento\" es determinado por el conocimiento que el jugador posee sobre la óptima ubicación en la que su campeón debe ir. Por ejemplo, el tanque del equipo suele ubicarse en primera fila, protegiendo a quienes se encargan de hacer daño.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Pot / Poti",
+        "definicion_es": "Potion(s), usualmenteHealth Potiono Poción de Vida.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Premade",
+        "definicion_es": "Varios jugadores que se conocen entre sí, forman un equipo juntos para entrar a la fase de selección de campeones.",
+        "termino_en": "Premade",
+        "definicion_en": "Multiple players, who know each other, forming a team together before entering the champion selection phase."
+    },
+    {
+        "termino_es": "Pro",
+        "definicion_es": "Jugador muy talentoso y destacado, diminutivo de \"profesional\".",
+        "termino_en": "Pro",
+        "definicion_en": "An act of calling someone that is very talented when playing, short for professional."
+    },
+    {
+        "termino_es": "Proxy",
+        "definicion_es": "Jugada de muy alto riesgo (generalmente se realiza en los carriles superior e inferior) que implica farmear minions entre ambas torretas enemigas para atraer al jungla contrario (y quitar presión de las lineas) y evitar que nuestro rival consiga tanto oro como experiencia, además de prevenir que tiren las torres aliadas de la linea.",
+        "termino_en": "Proxy",
+        "definicion_en": "A high-risk, high-reward strategy (generally done at the top or bottom lanes due the length of the lanes) that involves farming enemy minions between the enemy turrets to prevent the opposing laner from effectively pushing or farming."
+    },
+    {
+        "termino_es": "Pull",
+        "definicion_es": "Habilidad que trae al enemigo más cerca a ti (e.g.Rocket GrabdeBlitzcrank).",
+        "termino_en": "Pull",
+        "definicion_en": "Equivalent toleashing."
+    },
+    {
+        "termino_es": "Purple",
+        "definicion_es": "Purple team - Equipo morado: El grupo de jugadores que comienza la partida del lado superior derecho enLa Grieta del InvocadoryAbismo de los Lamentos, o del lado derecho enEl Bosque RetorcidoyLa Cicatriz del Cristal.].",
+        "termino_en": "Purple",
+        "definicion_en": "Purple team: The group of players that start out at the upper-right side of the map, once called Team Chaos."
+    },
+    {
+        "termino_es": "Push",
+        "definicion_es": "Avanzar rápidamente por un carril, limpiando olas de minions y destruyendo torretas.",
+        "termino_en": "Push",
+        "definicion_en": "To continue advancing forward in a lane, clearing it of minions and towers."
+    },
+    {
+        "termino_es": "PvP",
+        "definicion_es": "Player versus Player -Jugador contra Jugador: Modos de juego que no incluyen campeones controlados por la I.A.",
+        "termino_en": "PvP",
+        "definicion_en": "Player versus Player: game modes that do not include bot-controlled champions."
+    },
+    {
+        "termino_es": "Q",
+        "definicion_es": "La primer habilidad de campeón, ubicada en la tecla \"Q\" (configuración por defecto).",
+        "termino_en": "Q",
+        "definicion_en": "The firstchampion abilitywhich is bound to the \"Q\" key by default."
+    },
+    {
+        "termino_es": "QQ",
+        "definicion_es": "Representa a un par de ojos llorosos. Hace referencia al jugador quejoso.",
+        "termino_en": "QQ",
+        "definicion_en": "Depicts a pair of crying eyes, implying that the other player is complaining."
+    },
+    {
+        "termino_es": "QSS",
+        "definicion_es": "QuickSilver Sash - Fajín de Mercurio",
+        "termino_en": "QSS",
+        "definicion_en": "Quicksilver Sash"
+    },
+    {
+        "termino_es": "Quadra kill",
+        "definicion_es": "Asesinato Cuádruple: Eliminar a cuatro enemigos en muy poco tiempo.",
+        "termino_en": "Quadra kill",
+        "definicion_en": "Single-handedly achieving four championkillswithin ten seconds of aTriple kill."
+    },
+    {
+        "termino_es": "Queue",
+        "definicion_es": "Fase de selección de campeones, antes de comenzar la partida. Puede ser en los modos Blind Pick o Draft Pick.",
+        "termino_en": "Execute",
+        "definicion_en": "An ability intended to eliminate a champion. Examples includePyke'sDeath from BelowandJinx'sSuper Mega Death Rocket!."
+    },
+    {
+        "termino_es": "Quint",
+        "definicion_es": "Quintessence- Quintaesencia, el más caro y poderoso tipo de runa.",
+        "termino_en": "Quint",
+        "definicion_en": "Quintessence, the removed most expensive/powerful type ofrune."
+    },
+    {
+        "termino_es": "R",
+        "definicion_es": "La cuarta (por lo general, más poderosa) habilidad de campeón, ubicada en la tecla \"R\" (configuración por defecto).",
+        "termino_en": "R",
+        "definicion_en": "The fourthchampion ability(usually the ultimate) which is bound to the \"R\" key by default."
+    },
+    {
+        "termino_es": "Rage",
+        "definicion_es": "Acción de insultar a sus compañeros durante la partida.",
+        "termino_en": "Rage",
+        "definicion_en": "To display in-game frustration."
+    },
+    {
+        "termino_es": "Ragequit",
+        "definicion_es": "Un incidente donde el jugador abandona la partida luego de descargar insultos varios sobre sus compañeros.",
+        "termino_en": "Ragequit",
+        "definicion_en": "An incident where a player quits (leaves) the game due to in-game frustrations."
+    },
+    {
+        "termino_es": "Raka",
+        "definicion_es": "Soraka",
+        "termino_en": "Raka",
+        "definicion_en": "Soraka"
+    },
+    {
+        "termino_es": "Rambo",
+        "definicion_es": "Entrar a la lucha solo, usualmente una táctica suicida.",
+        "termino_en": "Rambo",
+        "definicion_en": "Diving into a fight alone, usually a suicidal tactic."
+    },
+    {
+        "termino_es": "Random",
+        "definicion_es": "Acción de elegir a un campeón aleatorio en la fase de selección de campeones, pulsando el ícono \"?\".",
+        "termino_en": "Roam",
+        "definicion_en": "Movement by alaneraway from their lane to a different area of the map to gank or otherwise apply map pressure."
+    },
+    {
+        "termino_es": "Rank / Ranked",
+        "definicion_es": "Ranked game- Partida Clasificatoria.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Rat",
+        "definicion_es": "Twitch",
+        "termino_en": "Rat",
+        "definicion_en": "Twitch"
+    },
+    {
+        "termino_es": "Rdy",
+        "definicion_es": "Ready - Listos.",
+        "termino_en": "Rdy",
+        "definicion_en": "Ready"
+    },
+    {
+        "termino_es": "Re",
+        "definicion_es": "Diminutivo de \"Reaparición\". Indica al equipo que el campeón enemigo ya no está \"Desaparecido en Acción\" o \"MIA\"",
+        "termino_en": "Re",
+        "definicion_en": "Short for reappear, meaning an enemy champion is no longer MIA."
+    },
+    {
+        "termino_es": "Recall",
+        "definicion_es": "Habilidad que poseen todos los campeones para teletransportarse a su base luego de canalizarla durante 8 segundos.",
+        "termino_en": "Heca",
+        "definicion_en": "Hecarim"
+    },
+    {
+        "termino_es": "Recommended",
+        "definicion_es": "Una categoría de campeones cuyo control es cómodo y poco dificultoso para los nuevos jugadores.",
+        "termino_en": "Recommended",
+        "definicion_en": "A category of champions whose controlling difficulty is relatively low and suitable to newLeague of Legendsplayers."
+    },
+    {
+        "termino_es": "Red",
+        "definicion_es": "Blessing of the Lizard Elder. También conocido como \"buff rojo\"",
+        "termino_en": "Red",
+        "definicion_en": "Crest of Cinders. Also known as \"red buff.\" By extension, can refer to theRed Brambleback."
+    },
+    {
+        "termino_es": "Ren / Rene / Renek",
+        "definicion_es": "Renekton",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Reng",
+        "definicion_es": "Rengar",
+        "termino_en": "Rengo",
+        "definicion_en": "Rengar"
+    },
+    {
+        "termino_es": "Report",
+        "definicion_es": "Acción llevada a cabo al finalizar la partida, buscando la sanción al jugador que ha tenido algún tipo de conducta anti-deportiva. Cada caso reportado se revisa en un tribunal donde los jugadores que no hayan sido castigados votan si ese caso merece sanción o no.",
+        "termino_en": "Rep",
+        "definicion_en": "Report: An action after each match to report a player to official for inappropriate behavior such as verbal abuse or intentionally feeding the opponent."
+    },
+    {
+        "termino_es": "Revolver",
+        "definicion_es": "Hextech Revolver",
+        "termino_en": "Revolver",
+        "definicion_en": "Hextech Revolver"
+    },
+    {
+        "termino_es": "Riot",
+        "definicion_es": "Companía creadora deLeague of Legends.",
+        "termino_en": "Riot",
+        "definicion_en": "The development company that createdLeague of Legends."
+    },
+    {
+        "termino_es": "River (Río)",
+        "definicion_es": "El agua que cruza entre los carriles enLa Grieta del Invocador.",
+        "termino_en": "River",
+        "definicion_en": "The map dividing river that lies in neutral territory onSummoner's Rift."
+    },
+    {
+        "termino_es": "RoA",
+        "definicion_es": "Rod of Age - Vara de las Edades.",
+        "termino_en": "RoA",
+        "definicion_en": "Rod of Ages"
+    },
+    {
+        "termino_es": "Roamer",
+        "definicion_es": "Campeón que abandona su puesto para moverse alrededor del mapa, tanto para suportear, junglear o gankear.",
+        "termino_en": "Roam",
+        "definicion_en": "Movement by alaneraway from their lane to a different area of the map to gank or otherwise apply map pressure."
+    },
+    {
+        "termino_es": "ROFL",
+        "definicion_es": "Rolling on the floor laughing - Rodando por el suelo, riendo.",
+        "termino_en": "ROFL",
+        "definicion_en": "Rolling on the floor laughing."
+    },
+    {
+        "termino_es": "Root",
+        "definicion_es": "Debilitación que impide cualquier movimiento (pero no acción) de un campeón enemigo. También se le llama \"Snare\" o \"Inmobilize\".",
+        "termino_en": "Riot",
+        "definicion_en": "The development company that createdLeague of Legends."
+    },
+    {
+        "termino_es": "RP",
+        "definicion_es": "Riot Points",
+        "termino_en": "RP",
+        "definicion_en": "Riot Points"
+    },
+    {
+        "termino_es": "Rylais",
+        "definicion_es": "Rylai's Crystal Scepter - Cetro de Cristal de Rylai",
+        "termino_en": "Rylai's",
+        "definicion_en": "Rylai's Crystal Scepter"
+    },
+    {
+        "termino_es": "Scaling",
+        "definicion_es": "Qué tan bien incrementa la eficiencia de un campeón a medida que gana nivel y compra items.",
+        "termino_en": "Scaling",
+        "definicion_en": "The mathematical interaction where anystatistic, includinglevels, and in the case of non-championsgame time, is added to or multiplied by a statistic's or effect's set number to numerically increase the potency of that effect.All other definitions are based on this definition."
+    },
+    {
+        "termino_es": "Scrim",
+        "definicion_es": "Scrimmage: Dos equipos compiten entre ellos para divertirse en una partida fuera de torneo.",
+        "termino_en": "Scrim",
+        "definicion_en": "Scrimmage: two teams competing against each other for fun or practice in a non-tournament game."
+    },
+    {
+        "termino_es": "Scrub",
+        "definicion_es": "Un insulto indicador de que el jugador tiene un bajo nivel de habilidad para con el juego.",
+        "termino_en": "Scrub",
+        "definicion_en": "An insult indicating that the player has a low skill level for the game; a noob."
+    },
+    {
+        "termino_es": "Seal (Sello)",
+        "definicion_es": "Un tipo de runa que primariamente potencia cualidades defensivas o de utilidad.",
+        "termino_en": "Heal bot",
+        "definicion_en": "Refers toSorakacontributing nothing but healing."
+    },
+    {
+        "termino_es": "Sej / Seju",
+        "definicion_es": "Sejuani",
+        "termino_en": "Seju",
+        "definicion_en": "Sejuani"
+    },
+    {
+        "termino_es": "Shop",
+        "definicion_es": "Lugar ubicado en cada base, donde se compran objetos.",
+        "termino_en": "Shop",
+        "definicion_en": "The location where items are bought."
+    },
+    {
+        "termino_es": "Shroom (Setas/Hongos)",
+        "definicion_es": "Noxious Trap",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Shutdown",
+        "definicion_es": "Eliminar a un campeón que viene con racha de asesinatos (Killing Spree)",
+        "termino_en": "Run it down",
+        "definicion_en": "A phrase coined by streamer Tyler1 meaning to feed the opposing mid lane player by repeatedly running past their mid turret"
+    },
+    {
+        "termino_es": "Shyv",
+        "definicion_es": "Shyvana",
+        "termino_en": "Shyv",
+        "definicion_en": "Shyvana"
+    },
+    {
+        "termino_es": "Silence",
+        "definicion_es": "Debilitación que impide al objetivo lanzar o activar habilidades.",
+        "termino_en": "Siege",
+        "definicion_en": "The act of champions and minions focusing one or multiple lanes' turrets/inhibitors after minion waves areshoved, either (A) while uncontested by an enemy, or (B) with multiple team members (contested or otherwise). In the latter case,longer-range carries—ADCsandAPCs— are the team members who assume the primary role of clearing the incoming minion waves and attacking turrets:carriesbecause they have the most damage with which to hit minions and turrets, andlonger-rangebecause of the safety advantage. Usually, sieging in which most members of the team or the entire team may participate, takes place while theHand of Baronbuff is active. The desired result of sieging is both shoving waves and hitting the upcoming turret/inhibitor alongside allied minions; the minions themselves will be focused by the turret first, while champions hit the turret/inhibitor. \"Advancing a siege\" refers to persisting in clearing minion waves and hitting the upcoming turret/inhibitor."
+    },
+    {
+        "termino_es": "Skar",
+        "definicion_es": "Skarner",
+        "termino_en": "Skar",
+        "definicion_en": "Skarner"
+    },
+    {
+        "termino_es": "Skillshot",
+        "definicion_es": "Habilidad que requiere correcta puntería para alcanzar a su objetivo.",
+        "termino_en": "Squishy",
+        "definicion_en": "A champion that can be killed easily due to low base health/defenses."
+    },
+    {
+        "termino_es": "Skin",
+        "definicion_es": "Apariencia diferente para un campeón, adquirible mediante la compra deRP.",
+        "termino_en": "Xin",
+        "definicion_en": "Xin Zhao"
+    },
+    {
+        "termino_es": "Slow",
+        "definicion_es": "Una debilitación que reduce la velocidad de movimiento del objetivo.",
+        "termino_en": "Solo",
+        "definicion_en": "A champion (usually the top and mid laners) that guards an entire lane on their own."
+    },
+    {
+        "termino_es": "Smart cast",
+        "definicion_es": "Acción configurable mediante el menú de opciones que permite pulsar un click + tecla de habilidad para realizar la acción sin tener que pulsar el botón del ratón sobre el objetivo, sólo manteniendo el cursor (flecha del mouse) sobre el mismo.",
+        "termino_en": "Stat stick",
+        "definicion_en": "An item which either does not have an unique passive or active, or has one that is very weak. In either case, the item is considered useful mostly for its stats; indeed, most items which are considered to be stat sticks tend to have superior stats compared to items which have useful passives and/or actives. An example is oldPhantom Dancer, which did not had a 12% damage reduction passive, and was useful mostly because it used to offer 50% attack speed and 35% critical strike chance, which was superior to oldStatikk Shiv's 40% attack speed and 20% critical strike chance, allowing Phantom Dancer to compete with Statikk even though the latter had a lighting passive that did burst damage and waveclear. Phantom Dancer was even stacked, because the stats were just that high."
+    },
+    {
+        "termino_es": "Smiteless",
+        "definicion_es": "Eliminar alAncient GolemAncient GolemoLizard ElderLizard Eldersin usarSmite. Esto permite la posibilidad inmediata de invadir la jungla enemiga y robar el Ancient Golem/Lizard Elder rival.",
+        "termino_en": "Sidelane",
+        "definicion_en": "(verb or noun) Specifically refers to the top and bottom lanes or their respective laners inSummoner's Rift. \"To sidelane\" means torotateto and startlaningin one of the sidelanes, after theearly gameends."
+    },
+    {
+        "termino_es": "Snake",
+        "definicion_es": "Cassiopeia",
+        "termino_en": "Snake",
+        "definicion_en": "Cassiopeia"
+    },
+    {
+        "termino_es": "Snare",
+        "definicion_es": "Debilitación que impide el movimiento (pero no acción) del objetivo. También se le llama \"Root\" o \"Inmobilize\".",
+        "termino_en": "Snare",
+        "definicion_en": "An alias forroot(Movement debuff that immobilizes its holder andsilencesmobility abilities). Because there were no functional differences between the two, snare as a keyword was eventually phased out of the game."
+    },
+    {
+        "termino_es": "Snowball",
+        "definicion_es": "Situación que ocurre cuando un campeón o equipo obtiene una ventaja y conforme avanza el juego, esa ventaja se incrementa (efecto de bola de nieve), llevándolo/s a ganar la partida.",
+        "termino_en": "Snowball",
+        "definicion_en": "Situation that occurs when a champion or team gains an advantage that allows them to progressively grow stronger."
+    },
+    {
+        "termino_es": "Snowball item",
+        "definicion_es": "Item que incrementa su potencial mediante asesinatos o asistencias.",
+        "termino_en": "Snowball item",
+        "definicion_en": "An item that grows in power as you gain kills/assists, e.g.Mejai's Soulstealer."
+    },
+    {
+        "termino_es": "Soft CC",
+        "definicion_es": "Un tipo de Control de Masas que no interrumpe la canalización de habilidades.",
+        "termino_en": "Soft CC",
+        "definicion_en": "Crowd controlthat does not inhibit or cancel movement or spell casting."
+    },
+    {
+        "termino_es": "Solo",
+        "definicion_es": "Campeón que encara su carril (generalmente medio y superior) de manera solitaria. De ahí vienen los términos Solo Mid y Solo Top.",
+        "termino_en": "Solo",
+        "definicion_en": "A champion (usually the top and mid laners) that guards an entire lane on their own."
+    },
+    {
+        "termino_es": "Solo queue",
+        "definicion_es": "Lo opuesto a \"Party\", el jugador entra a buscar una partida en solitario, para ser emparejado con jugadores aleatorios que pueden o no encontrarse en Premade con otras personas.",
+        "termino_en": "Solo",
+        "definicion_en": "A champion (usually the top and mid laners) that guards an entire lane on their own."
+    },
+    {
+        "termino_es": "Split push",
+        "definicion_es": "Atacar y destruir una torre rival mientras el equipo enemigo se encuentra en otra parte del mapa.",
+        "termino_en": "Split push",
+        "definicion_en": "To continuously advance in one lane while teammates are focused elsewhere."
+    },
+    {
+        "termino_es": "Squishy",
+        "definicion_es": "Campeón fácilmente eliminable dada su poca defensa o vida.",
+        "termino_en": "Squishy",
+        "definicion_en": "A champion that can be killed easily due to low base health/defenses."
+    },
+    {
+        "termino_es": "SR",
+        "definicion_es": "Summoner's Rift- La Grieta del Invocador",
+        "termino_en": "SR",
+        "definicion_en": "Summoner's Rift"
+    },
+    {
+        "termino_es": "Stealth",
+        "definicion_es": "Habilidad que da la capacidad al campeón que la posee de ser indetectable por el enemigo.",
+        "termino_en": "Stonewall",
+        "definicion_en": "When a champion is effectively able to turn the lane into afarm lane, denying all kill pressure from the enemy and countering their pushing potential, even if they would otherwise have both. They do this without having kill pressure themselves."
+    },
+    {
+        "termino_es": "Steroid",
+        "definicion_es": "Una habilidad que incrementa uno o más parámetros base de un campeón.",
+        "termino_en": "Steroid",
+        "definicion_en": "A temporary, self applied, straight-forward ability that increases one's performance without tangentially altering it."
+    },
+    {
+        "termino_es": "Store",
+        "definicion_es": "Riot Store: La tienda disponible en elPVP.net(o pantalla de menú), donde el jugador puede comprar RP, campeones, aspectos de campeones, runas, etc. El término \"Shop\" se refiere a la tienda dentro de la partida.",
+        "termino_en": "Store",
+        "definicion_en": "Riot Store: the 'shop' accessible in the client interface where player can purchaseRiot Points,champions,skins,Runepages,Experience Boosts, etc. The term 'shop' dominantly refers to theShopin theField of Justicewhere the actual match is played."
+    },
+    {
+        "termino_es": "Streaming",
+        "definicion_es": "Mirar un video de partida de otro jugador en tiempo real.",
+        "termino_en": "Trading",
+        "definicion_en": "Tradedamage: When two opposing players deal damage to each other during an encounter. However, it can also refer to any non-lethal damaging encounter (i.e. a trade can be \"one-sided\", where the enemy deals no damage back while having received some). Asuccessfulor\"good\"trade is a trade where one side deals more damage than the other in terms of reaching alethal threshold."
+    },
+    {
+        "termino_es": "Stun",
+        "definicion_es": "Debilitación que impide al objetivo moverse, atacar o castear habilidades.",
+        "termino_en": "Susan",
+        "definicion_en": "Nasus'name spelled backwards, often as a derogatory term for mostNasusplayers."
+    },
+    {
+        "termino_es": "Summoner",
+        "definicion_es": "Rol que toma el jugador que \"llama\" (elige) a un campeón para manejarlo en la batalla.",
+        "termino_en": "Super",
+        "definicion_en": "Super minion: a strongerminionthat is spawned by destroying an enemyinhibitorin classic game mode."
+    },
+    {
+        "termino_es": "Super",
+        "definicion_es": "Super Minion: Un minion más poderoso que sale al campo luego de destruir un inhibidor enemigo en el modo de juego Clásico. En Dominion, cada ola de minions contiene un super minion.",
+        "termino_en": "Super",
+        "definicion_en": "Super minion: a strongerminionthat is spawned by destroying an enemyinhibitorin classic game mode."
+    },
+    {
+        "termino_es": "Support",
+        "definicion_es": "Tipo de campeones que tiene la tarea de fortalecer y apoyar la perfomance de sus compañeros.",
+        "termino_en": "Super",
+        "definicion_en": "Super minion: a strongerminionthat is spawned by destroying an enemyinhibitorin classic game mode."
+    },
+    {
+        "termino_es": "Surrender",
+        "definicion_es": "Comenzar una votación entre los compañeros de equipo para finalizar la partida antes de que uno de los nexos sea destruido y así admitir ante el enemigo la derrota.",
+        "termino_en": "Super",
+        "definicion_en": "Super minion: a strongerminionthat is spawned by destroying an enemyinhibitorin classic game mode."
+    },
+    {
+        "termino_es": "Sustain",
+        "definicion_es": "Capacidad que tiene un campeón de permanecer en una línea o jungla durante el mayor tiempo posible, sin volver a la base.",
+        "termino_en": "Sustain",
+        "definicion_en": "A champion's capacity for staying in a lane orjunglewithout having to go back to the base."
+    },
+    {
+        "termino_es": "Synergy",
+        "definicion_es": "Cuán bien pueden dos o más campeones trabajar juntos.",
+        "termino_en": "Synergy",
+        "definicion_en": "How well two or more champions/players work together."
+    },
+    {
+        "termino_es": "Tank",
+        "definicion_es": "Campeón capaz de recibir gran cantidad de daño. Por lo general se arma con vida, armadura y resistencia mágica. Es buen iniciador, pero posee muy poco daño",
+        "termino_en": "Gank",
+        "definicion_en": "To ambush unsuspecting enemies. Portmanteau of 'gang kill'."
+    },
+    {
+        "termino_es": "Taunt",
+        "definicion_es": "Una debilitación que obliga al objetivo a atacar a quien la lanza.",
+        "termino_en": "Pant",
+        "definicion_en": "Pantheon"
+    },
+    {
+        "termino_es": "Team comp",
+        "definicion_es": "Team composition - Composición de Equipo: Característica específica que todos (o casi todos) los miembros de un equipo comparten para lograr un exitoso trabajo en equipo o para seguir una estrategia determinada. Ejemplos incluyen Poke comp, Heal comp, Push comp, AoE comp, CC comp, etc.",
+        "termino_en": "Team comp",
+        "definicion_en": "Team composition: A specific champion combination for a team intended to achieve an overall strategy. Examples include Dive comp, Poke comp, Heal comp, Push/Siege comp, AoE comp, CC comp, etc."
+    },
+    {
+        "termino_es": "Teamfight",
+        "definicion_es": "Lucha de Equipo, cuando varios campeones de cada bando entran en batalla en un área determinada.",
+        "termino_en": "Teamfight",
+        "definicion_en": "When multiple (e.g. the entire team) champions gather in one area to battle."
+    },
+    {
+        "termino_es": "Tenacity (Tenacidad)",
+        "definicion_es": "Un parámetro que determina la reducción del efecto de Control de Masas.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "TF",
+        "definicion_es": "Twisted Fate",
+        "termino_en": "TF",
+        "definicion_en": "Twisted Fate"
+    },
+    {
+        "termino_es": "Top",
+        "definicion_es": "Top/upperlane-  Carril superior",
+        "termino_en": "Shop",
+        "definicion_en": "The location where items are bought."
+    },
+    {
+        "termino_es": "Tower diving / TD",
+        "definicion_es": "Acosar a un enemigo dentro del rango de su torre.",
+        "termino_en": "Tower hugging",
+        "definicion_en": "To stay near the tower to deter enemy champions from attacking them."
+    },
+    {
+        "termino_es": "TP",
+        "definicion_es": "Teleport",
+        "termino_en": "TP",
+        "definicion_en": "Teleport"
+    },
+    {
+        "termino_es": "Trade / Trading",
+        "definicion_es": "Trade champions: intercambiar de campeón con otro jugador durante la selección de campeones en los modos Draft Pick o Clasificatoria, una vez que ambos equipos terminaron de elegir a sus campeones.",
+        "termino_en": "Trading",
+        "definicion_en": "Tradedamage: When two opposing players deal damage to each other during an encounter. However, it can also refer to any non-lethal damaging encounter (i.e. a trade can be \"one-sided\", where the enemy deals no damage back while having received some). Asuccessfulor\"good\"trade is a trade where one side deals more damage than the other in terms of reaching alethal threshold."
+    },
+    {
+        "termino_es": "Tri-brush",
+        "definicion_es": "Particular arbusto en formal de \"Y\" que cubre tres direcciones.",
+        "termino_en": "Tri-brush",
+        "definicion_en": "A particular \"Y\" shaped brush that covers three directions, such as those located onSummoner's Riftat theRed Bramblebackjungle entry near the outer turret."
+    },
+    {
+        "termino_es": "Triple kill",
+        "definicion_es": "Asesinato Triple: Eliminar a tres enemigos en muy poco tiempo.",
+        "termino_en": "Triple kill",
+        "definicion_en": "Single-handedly achieving three championkillswithin ten seconds of aDouble kill."
+    },
+    {
+        "termino_es": "Tris / Trist",
+        "definicion_es": "Tristana",
+        "termino_en": "Trist",
+        "definicion_en": "Tristana"
+    },
+    {
+        "termino_es": "Troll",
+        "definicion_es": "Persona que perturba a otros jugadores y a la comunidad en general, mostrando todo el tiempo actitudes anti-deportivas para satisfacción propia, ya sea mediante insultos, mensajes ofensivos o asistiendo al equipo enemigo, dándole oro cada vez que muere o advirtiéndoles de la posición aliada.",
+        "termino_en": "Troll",
+        "definicion_en": "A person who causes acts of disruption to other players and to the community. These acts may include writing offensive messages or intentionally feeding the enemy. Trolls are also referred to as griefers. SeeTrollon Wikipedia for more information."
+    },
+    {
+        "termino_es": "TT",
+        "definicion_es": "Twisted Treeline- El Bosque Retorcido",
+        "termino_en": "TT",
+        "definicion_en": "Twisted Treeline"
+    },
+    {
+        "termino_es": "Tryn / Trynda",
+        "definicion_es": "Tryndamere",
+        "termino_en": "Trynda",
+        "definicion_en": "Tryndamere"
+    },
+    {
+        "termino_es": "Turret (Torre/Torreta)",
+        "definicion_es": "Estructura que defiende los carriles y la base.",
+        "termino_en": "",
+        "definicion_en": ""
+    },
+    {
+        "termino_es": "Ult / Ulti",
+        "definicion_es": "Ultimate ability- Habilidad Definitiva, usualmente ubicada en la tecla \"R\" (configuración por defecto)",
+        "termino_en": "Ult bot",
+        "definicion_en": "A champion whose ult is very powerful or a lot more impactful compared to the rest of their kit. Sometimes those champions have the rest of their kits or their base stats nerfed to compensate, but are still worth picking due to their ultimate alone. Examples of champions which are or were considered ult bots areMiss Fortune,Malzahar,Malphite, andShen."
+    },
+    {
+        "termino_es": "Unique",
+        "definicion_es": "Aura, habilidad o cualidad de objeto que no aumenta si compras otro objeto con el mismo efecto.",
+        "termino_en": "Unique",
+        "definicion_en": "An aura or ability that does not stack, common toitemeffects."
+    },
+    {
+        "termino_es": "UP",
+        "definicion_es": "Underpowered: Campeón que por defecto tiene muy bajo potencial, comparándolo con la media.",
+        "termino_en": "UP",
+        "definicion_en": "Underpowered"
+    },
+    {
+        "termino_es": "Utility (Utilidad)",
+        "definicion_es": "Hechizos o habilidades que tienen la cualidad de ser benéficos para el equipo.",
+        "termino_en": "Utility",
+        "definicion_en": "Abilities that have a quality of being beneficial for the team.Controller-class champions are known to have a lot of utility."
+    },
+    {
+        "termino_es": "Vision hack",
+        "definicion_es": "Habilidad de campeón que le permite al jugador ver a través del área de sombras por unos segundos",
+        "termino_en": "Vision hack",
+        "definicion_en": "An ability which allows a player to see through thefog of war, such asTwisted Fate'sDestiny."
+    },
+    {
+        "termino_es": "Vlad / Vladi",
+        "definicion_es": "Vladimir",
+        "termino_en": "Vlad",
+        "definicion_en": "Vladimir"
+    },
+    {
+        "termino_es": "Voli",
+        "definicion_es": "Volibear",
+        "termino_en": "Voli",
+        "definicion_en": "Volibear"
+    },
+    {
+        "termino_es": "W",
+        "definicion_es": "La segunda habilidad de campeón, ubicada en la tecla \"W\" (configuración por defecto).",
+        "termino_en": "W",
+        "definicion_en": "The secondchampion abilitywhich is bound to the \"W\" key by default."
+    },
+    {
+        "termino_es": "Ward",
+        "definicion_es": "Objetos que dan visión sobre un área pequeña del Área de Sombras cuando son colocados.",
+        "termino_en": "Ward hop",
+        "definicion_en": "Using a dash ability (e.g.Lee Sin'sSafeguardandJax'sLeap Strike) to target a ward. This is useful for escaping enemy attacks or intercepting an enemy that has used walls to juke away."
+    },
+    {
+        "termino_es": "Ward bait",
+        "definicion_es": "Colocar un Guardián de Visión Rosa de modo estratégico, buscando atraer al enemigo hacia una trampa cuando venga a destruirlo.",
+        "termino_en": "Ward bait",
+        "definicion_en": "To place down a ward in order to set up an ambush. When an enemy champion attempts to destroy the ward, usually due to having anOracle, the player initiates their surprise attack."
+    },
+    {
+        "termino_es": "Ward coverage",
+        "definicion_es": "Guardianes de Visión colocados de un modo estratégico para obtener más visión de un área específica del mapa.",
+        "termino_en": "Ward hop",
+        "definicion_en": "Using a dash ability (e.g.Lee Sin'sSafeguardandJax'sLeap Strike) to target a ward. This is useful for escaping enemy attacks or intercepting an enemy that has used walls to juke away."
+    },
+    {
+        "termino_es": "Ward placement",
+        "definicion_es": "Lugar donde los Guardianes de Visión son colocados.",
+        "termino_en": "Ward bait",
+        "definicion_en": "To place down a ward in order to set up an ambush. When an enemy champion attempts to destroy the ward, usually due to having anOracle, the player initiates their surprise attack."
+    },
+    {
+        "termino_es": "Waveclear",
+        "definicion_es": "Limpieza de olas de súbditos. Es la capacidad de un campeón de destruir largas olas de súbditos en uno o pocos lanzamiento de habilidades.",
+        "termino_en": "Waveclear",
+        "definicion_en": "Generically refers to the act of killing the presently incoming waves ofminions."
+    },
+    {
+        "termino_es": "Wet Noodle Fight",
+        "definicion_es": "A menudo describe una lucha entre dos campeones con muy poco daño, usualmente tanques. Suele tomar lugar en el carril superior en los juegos competitivos.",
+        "termino_en": "Wet Noodle Fight",
+        "definicion_en": "Describes a fight between two champions that are building very little damage - usually tanks.  This often takes place in the top lane during competitive play."
+    },
+    {
+        "termino_es": "Wombo combo",
+        "definicion_es": "Cuando un equipo efectiva y consecutivamente encadena sus habilidades en uno o más campeones enemigos.",
+        "termino_en": "Wombo combo",
+        "definicion_en": "When teammates effectively and consecutively chain together their abilities on enemy champions. Coined from aSmash Brothers Meleematch."
+    },
+    {
+        "termino_es": "WotA",
+        "definicion_es": "Will of the Ancients - Testamento de los Antiguos",
+        "termino_en": "WotA",
+        "definicion_en": "Will of the Ancients"
+    },
+    {
+        "termino_es": "WP",
+        "definicion_es": "Well Played - Bien Jugado",
+        "termino_en": "WP",
+        "definicion_en": "Well Played"
+    },
+    {
+        "termino_es": "Wu / Wuk",
+        "definicion_es": "Wukong",
+        "termino_en": "Wuk",
+        "definicion_en": "Wukong"
+    },
+    {
+        "termino_es": "WW",
+        "definicion_es": "Warwick",
+        "termino_en": "WW",
+        "definicion_en": "Warwick"
+    },
+    {
+        "termino_es": "Xin / XZ",
+        "definicion_es": "Xin Zhao",
+        "termino_en": "Xin",
+        "definicion_en": "Xin Zhao"
+    },
+    {
+        "termino_es": "Yellow",
+        "definicion_es": "Seals- Sello, un tipo de runa.",
+        "termino_en": "Yellow",
+        "definicion_en": "Seals, a removed type ofrune."
+    },
+    {
+        "termino_es": "Yi",
+        "definicion_es": "Maestro Yi",
+        "termino_en": "Yi",
+        "definicion_en": "Master Yi"
+    },
+    {
+        "termino_es": "Zone / Zoning",
+        "definicion_es": "Tácticas usadas para impedir que el enemigo gane oro/experiencia.",
+        "termino_en": "Zoning",
+        "definicion_en": "Tactics used to prevent enemy champion(s) from gaining gold/experience."
+    }
+]
