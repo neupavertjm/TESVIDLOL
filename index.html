@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diccionario LoL</title>
+    <script defer src="script.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+        input { padding: 10px; width: 80%; margin-bottom: 20px; }
+        .termino { border-bottom: 1px solid #ccc; padding: 10px; text-align: left; max-width: 600px; margin: auto; }
+    </style>
+</head>
+<body>
+    <h1>Diccionario de League of Legends</h1>
+    <input type="text" id="buscador" placeholder="Buscar un término..." onkeyup="buscarTermino()">
+    <div id="resultados"></div>
+    
+    <script>
+        let terminos = [];
+        
+        async function cargarDatos() {
+            const respuesta = await fetch('terminologia_esports.json');
+            terminos = await respuesta.json();
+            mostrarResultados(terminos);
+        }
+        
+        function buscarTermino() {
+            const query = document.getElementById('buscador').value.toLowerCase();
+            const filtrados = terminos.filter(t => 
+                (t.termino_es && t.termino_es.toLowerCase().includes(query)) ||
+                (t.termino_en && t.termino_en.toLowerCase().includes(query))
+            );
+            mostrarResultados(filtrados);
+        }
+        
+        function mostrarResultados(lista) {
+            const divResultados = document.getElementById('resultados');
+            divResultados.innerHTML = '';
+            lista.forEach(t => {
+                divResultados.innerHTML += `
+                    <div class="termino">
+                        <strong>${t.termino_es || '(Sin término en español)'} - ${t.termino_en || '(Sin término en inglés)'}</strong>
+                        <p><b>ES:</b> ${t.definicion_es || 'No disponible'}</p>
+                        <p><b>EN:</b> ${t.definicion_en || 'No disponible'}</p>
+                    </div>
+                `;
+            });
+        }
+        
+        cargarDatos();
+    </script>
+</body>
+</html>
